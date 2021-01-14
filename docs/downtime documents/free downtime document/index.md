@@ -1,3 +1,4 @@
+[Back to Main](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/)
 # Free Downtime Document
 ## What is Free Down Time?
 Being in a guild has its perk compared to regular adventuring. You have all this time to rest in between! Free downtime, not to be confused with Downtime Ticket (DTT), is the free time you have throughout the day.
