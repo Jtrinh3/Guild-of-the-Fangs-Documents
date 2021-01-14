@@ -1,3 +1,4 @@
+[Back to Main](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/)
 # Downtime Ticket Document
 
 ## What is a Downtime Ticket (DTT)?
