@@ -1,3 +1,5 @@
+[Back to Main](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/)
+
 # Player's Guide
 
 ## Rules
