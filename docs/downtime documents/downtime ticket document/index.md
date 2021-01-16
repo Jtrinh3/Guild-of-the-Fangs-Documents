@@ -2,9 +2,10 @@
 # Downtime Ticket Document
 
 ## What is a Downtime Ticket (DTT)?
-Downtime Ticket, unlike Free Down Time (FDT), is used for more major benefits that you can’t get with just Free Downtime. You are restricted to spending 8 DTT at most in a single real-time day that is separated from FDT.
+Downtime Ticket, unlike [Free Down Time (FDT)](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/downtime%20documents/free%20downtime%20document/), is used for more major benefits that you can’t get with just Free Downtime. You are restricted to spending 8 DTT at most in a single real-time day that is separated from FDT.
 
 ## What can I do with DTT?
+In addition to using it to speed up activity listed in the [Free Down Time Document](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/downtime%20documents/free%20downtime%20document/), DTT can be use for a lot more thing!
 
 ### Proficiency Training
 Adventurers undergo plenty of hardship, and in order to come back each time from their trips, they have a bunch of knowledge and training under their belt! In addition to your class and background proficiencies, those in the guild have the opportunity to learn from one another!
