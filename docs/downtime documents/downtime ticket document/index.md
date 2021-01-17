@@ -19,10 +19,10 @@ Being in the guildhall all day doesn’t mean you don’t have to train! Do you 
 For example, a character with 12 dex that is level 1 will have a 2 to their proficiency bonus. With 12 DEX, their dex modifier is +1. This means the total downtime needed to learn is 100-5(1+2)=85. If your ability score or proficiency bonus increases at any point throughout the training, your total is also modified! No refund for excess spent though!
 
 #### Tools
-Build a bear
+Tools is important to every day crafting. It might take 
 
 #### Exotic Weapons
-Slay fashionably
+Sometime, weapons are 
 
 ### Scribing Spells
 To copy a spell to a book or create a scroll, one requires proficiency in Arcana.
