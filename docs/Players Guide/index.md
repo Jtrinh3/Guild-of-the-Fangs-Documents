@@ -42,12 +42,23 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
   * Customizing Your Origin
 
 ### Classes
-
+* Player's Handbook
+* Dungeon Master's Guide
+* Sword Coast Adventurer's Guide
+* Xanathar's Guide to Everything
+* Eberron: Rising From The Last War
+* Explorer’s Guide to Wildemount
+* Mythic Odysseys of Theros
+* Tasha's Cauldron of Everything
+  * All Optional Class Features except for Wizard's Cantrip Formula is allowed.
+    * Cantrip Formula is replaced with Cantrip Versatility instead.
 
 ### Background
 
+### Feats
+
 ### Spells
 
-### Feats
+### Homebrew
 
 ## Joining a Game
