@@ -51,7 +51,7 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
   * All Optional Class Features except for Wizard's Cantrip Formula is allowed.
-    * Cantrip Formula is replaced with Cantrip Versatility instead.
+    * Cantrip Formula is replaced with Cantrip Versatility instead (may change a cantrip out at ASI levels).
 
 ### Background
 
