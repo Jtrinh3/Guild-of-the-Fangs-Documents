@@ -6,7 +6,11 @@
 Don't be a wangrod.
 
 ## Character Creation
-Below are list for each aspect of character creation. We use fixed HP (average rounded up), and point buy for character stat. You may opt to start with starting equipment or maximum possible starting gold. Do note that starting with starting gold means you forfeit your background provided equipment.
+Below are list for each aspect of character creation. A few key notes:
+
+* We use fixed HP (die average rounded up)
+* Point buy for character stat.
+* You may opt to start with starting equipment or maximum possible starting gold. Do note that starting with starting gold means you forfeit your background provided equipment.
 
 ### Races
 #### Approved Sources
