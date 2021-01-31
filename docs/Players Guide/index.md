@@ -10,7 +10,15 @@ You need not worry about metagaming by using these books at the table. All that 
 It is worth noting that as historical estimates and anecdotes often are, the player’s handbook and other such guides are often inaccurate and certainly incomplete. What if the great Basalisk really only has four legs but the last time anyone fought one the lone survivor was a knight who suffered horrible brain damage blurring his memory of the event? Would that be a likely detail to be covered by the castle’s historian? Maybe the last time an ancient green dragon was slain was in the Bronze Age, a time of swords that couldn’t hold an edge the way modern steel can. Perhaps the party a king once commissioned to seek out and slay a beholder for study failed to track one altogether, but made up a story to save their necks. It’s possible that the cat-like form of a displacer beast was just the form that particular creature chose that day, and that was the last time one ever fought anyone who cared to write it down. While the guides we use are simple and effective for our use, they would not be that way in the context our characters would find them. Our guides instead allude to our characters’ clumsy interpretations of the histories they would really find. - [/u/REDDIT_BULL_WORM](https://www.reddit.com/r/DMAcademy/comments/e59efx/this_is_a_talk_i_like_to_give_at_session_zero_it/)
 
 ## Rules
-Don't be a wangrod.
+* Don't be a wangrod. Treat others fairly. We're all here to have fun, not argue.
+* If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. The DM is the arbiter of the rules.
+* Use your common sense. Don't be *that* guy.
+* If anything makes you uncomfortable, do call for a time out and address it.
+* By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
+* **#party-rolls** is not a channel for chatting; It is for DM keeping track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
+
+## Character Sheet
+We require you to have your character sheet in a format we can check at any time, be it D&DBeyond, GSheet, Dicecloud.
 
 ## Character Creation
 Below are list for each aspect of character creation. A few key notes:
@@ -18,6 +26,7 @@ Below are list for each aspect of character creation. A few key notes:
 * We use fixed HP (die average rounded up)
 * Point buy for character stat.
 * You may opt to start with starting equipment or maximum possible starting gold. Do note that starting with starting gold means you forfeit your background provided equipment.
+* You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox**.
 
 ### Races
 #### Approved Sources
