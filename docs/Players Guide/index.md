@@ -13,12 +13,12 @@ It is worth noting that as historical estimates and anecdotes often are, the pla
 * Don't be a wangrod. Treat others fairly. We're all here to have fun, not argue.
 * If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. The DM is the arbiter of the rules.
 * Use your common sense. Don't be *that* guy.
-* If anything makes you uncomfortable, do call for a time out and address it.
+* If anything makes you uncomfortable, do call for a time out with the DM and address it.
 * By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
 * **#party-rolls** is not a channel for chatting; It is for DM keeping track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
 
 ## Character Sheet
-We require you to have your character sheet in a format we can check at any time, be it D&DBeyond, GSheet, Dicecloud.
+We require you to have your character sheet in a format we can check at any time, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc.
 
 ## Character Creation
 Below are list for each aspect of character creation. A few key notes:
