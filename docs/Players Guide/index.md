@@ -21,12 +21,14 @@ It is worth noting that as historical estimates and anecdotes often are, the pla
 We require you to have your character sheet in a format we can check at any time, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc.
 
 ## Character Creation
-Below are list for each aspect of character creation. A few key notes:
+Below are lists for each aspect of character creation. A few key notes not mentioned:
 
+* You start with 900 EXP at level 3.
 * We use fixed HP (die average rounded up)
 * Point buy for character stat.
 * You may opt to start with starting equipment or maximum possible starting gold. Do note that starting with starting gold means you forfeit your background provided equipment.
 * You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox**.
+* If you're unsure about anything, ask in **#pc-help**!
 
 ### Races
 #### Approved Sources
@@ -62,6 +64,7 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
   * Customizing Your Origin
 
 ### Classes
+In addition to the following classes being allowed, all optional class features are allowed savve for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
 * Player's Handbook
 * Dungeon Master's Guide
 * Sword Coast Adventurer's Guide
@@ -75,11 +78,37 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
       * __Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
 
 ### Background
+Backgrounds from the following books are permitted
+* Player's Handbook
+    Customizing a Background (PHP 125)
+Sword Coast Adventurer's Guide
+Curse of Strahd
+Tomb of Annihilation
+Mythic Odysseys of Theros
+Ghosts of Saltmarsh 
 
 ### Feats
+The following are the feats that are allowed:
+* Player's Handbook
+* Sword Coast Adventurer's Guide
+* Xanathar's Guide to Everything
+* Eberron: Rising From The Last War
+* Tasha's Cauldron of Everything
 
 ### Spells
+The following spells are allowed:
+* Player's Handbook
+* Sword Coast Adventurer's Guide
+* Xanathar's Guide to Everything
+* Explorer’s Guide to Wildemount
+  * These spells are only available to Dunamancers
+* Guildmaster's Guide to Ravnica
+* Icewind Dale: Rime of the Frostmaiden
 
-### Homebrew
+#### Not Allowed
+* Lost Laboratory of Kwalish
+  * Only Flock of Familiars & Galder's Speedy Courier
+
+### Homebrews
 
 ## Joining a Game
