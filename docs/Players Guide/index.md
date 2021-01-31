@@ -70,8 +70,9 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
 * Explorer’s Guide to Wildemount
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
-  * All Optional Class Features except for Wizard's Cantrip Formula is allowed.
-    * Cantrip Formula is replaced with Cantrip Versatility instead (may change a cantrip out at ASI levels).
+  * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
+    * **Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ instead (may change a cantrip out at ASI levels).
+      * __Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
 
 ### Background
 
