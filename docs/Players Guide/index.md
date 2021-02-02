@@ -30,6 +30,8 @@ Below are lists for each aspect of character creation. A few key notes not menti
 * You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox**.
 * If you're unsure about anything, ask in **#pc-help**!
 
+If you're new to the game, feel free to ask 
+
 ### Races
 #### Approved Sources
 * Player's Handbook (including all variants)
@@ -67,14 +69,20 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
 
 ### Classes
 In addition to the following classes being allowed, all optional class features are allowed savve for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
+
+#### Allowed
 * Player's Handbook
 * Dungeon Master's Guide
 * Sword Coast Adventurer's Guide
 * Xanathar's Guide to Everything
 * Eberron: Rising From The Last War
 * Explorer’s Guide to Wildemount
+  * Not Echo Knight
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
+  * __Adjusted **Phantom Rogue.** Token of the Departed.__
+    * Changed wording of: “...you can ask the spirit associated with the trinket one question.”
+    * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question”
   * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
     * **Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ instead (may change a cantrip out at ASI levels).
       * __Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
@@ -103,8 +111,7 @@ The following spells are allowed:
 * Sword Coast Adventurer's Guide
 * Xanathar's Guide to Everything
 * Explorer’s Guide to Wildemount
-  * These spells are only available to Dunamancers
-* Guildmaster's Guide to Ravnica
+  * These spells are only available to Chronologist & Graviturgist wizards
 * Icewind Dale: Rime of the Frostmaiden
 * TCoE
   * Everything but __Dream of the Blue Veil__
