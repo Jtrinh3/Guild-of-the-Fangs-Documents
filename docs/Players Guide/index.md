@@ -11,11 +11,12 @@ It is worth noting that as historical estimates and anecdotes often are, the pla
 
 ## Rules
 * Don't be a wangrod. Treat others fairly. We're all here to have fun, not argue.
-* If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. The DM is the arbiter of the rules.
+* If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. __The DM is the arbiter of the rules.__
 * Use your common sense. Don't be *that* guy.
 * If anything makes you uncomfortable, do call for a time out with the DM and address it.
 * By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
 * **#party-rolls** is not a channel for chatting; It is for DM keeping track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
+* As with D&D and most table top games, specific rules trumps general rules.
 
 ## Character Sheet
 We require you to have your character sheet in a format we can check at any time, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc.
@@ -125,10 +126,12 @@ The following spells are allowed:
 UA Contents are considered homebrews.
 
 #### Permanently Adopted
+These homebrew are always available for character creation as they satisfy many criterias.
 * Races
   * Mousefolk
 
 #### Rotation
+Occasionally, we may allow some homebrew and UA temporarily for character creations. These will be listed here.
 
 #### Out of Rotation
 
