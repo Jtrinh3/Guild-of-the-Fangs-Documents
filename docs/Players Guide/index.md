@@ -81,7 +81,7 @@ In addition to the following classes being allowed, all optional class features 
   * Not Echo Knight
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
-  * __Adjusted **Phantom Rogue.** Token of the Departed.__
+  * **`Adjusted` Phantom Rogue.** *Token of the Departed.*
     * Changed wording of: “...you can ask the spirit associated with the trinket one question.”
     * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question”
   * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
