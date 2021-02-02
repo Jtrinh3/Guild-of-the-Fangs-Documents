@@ -13,13 +13,13 @@ It is worth noting that as historical estimates and anecdotes often are, the pla
 * Don't be a wangrod. Treat others fairly. We're all here to have fun, not argue.
 * If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. __The DM is the arbiter of the rules.__
 * Use your common sense. Don't be *that* guy.
-* If anything makes you uncomfortable, do call for a time out with the DM and address it.
+* If anything makes you uncomfortable during a session, do call for a time out at the table and address it.
 * By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
 * **#party-rolls** is not a channel for chatting; It is for DM keeping track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
 * As with D&D and most table top games, specific rules trumps general rules.
 
 ## Character Sheet
-We require you to have your character sheet in a format we can check at any time, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc.
+We require you to have your character sheet always updated and in a format we can check, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc and the link to it updated in **#pc-sheets**.
 
 ## Character Creation
 Below are lists for each aspect of character creation. A few key notes not mentioned:
@@ -78,7 +78,7 @@ In addition to the following classes being allowed, all optional class features 
 * Xanathar's Guide to Everything
 * Eberron: Rising From The Last War
 * Explorer’s Guide to Wildemount
-  * Not Echo Knight
+  * **Wizard.** Graviturgist & Chronolurgist Wizard
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
   * **`Adjusted` Phantom Rogue.** *Token of the Departed.*
@@ -87,6 +87,12 @@ In addition to the following classes being allowed, all optional class features 
   * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
     * **Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ instead (may change a cantrip out at ASI levels).
       * __Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
+
+#### Not Allowed
+* Explorer's Guide to Wildemount
+  * Echo Knight
+
+#### Additional Rules
 
 ### Background
 Backgrounds from the following books are permitted
@@ -123,6 +129,7 @@ The following spells are allowed:
   * __Dream of the Blue Veil__
 
 ### Homebrews
+When using a homebrew class or subclass, you are not allowed to multiclass.
 UA Contents are considered homebrews.
 
 #### Permanently Adopted
@@ -132,8 +139,9 @@ These homebrew are always available for character creation as they satisfy many 
 
 #### Rotation
 Occasionally, we may allow some homebrew and UA temporarily for character creations. These will be listed here.
+* None at the moment
 
 #### Out of Rotation
-
+Some people are still alive and kicking with their character from rotation. We preserve them here for to track former homebrew we had allow.
 
 ## Joining a Game
