@@ -44,6 +44,9 @@ Below are lists for each aspect of character creation. A few key notes not menti
   * Dragonborn (Draconblood & Ravenite), Halfling (Lotusden)
 * Mythic Odysseys of Theros
   * Leonin, Triton
+* Tasha's Cauldron of Everything
+  * Customizing your Origin
+    * Please note what changes you made through this when you post your character sheet in **#pc-sheets**
 All races with permanent, natural flight such as Aarakocra and Winged Tiefling only gain the ability to fly at 4th Level
 
 #### Not Allowed:
@@ -61,7 +64,6 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
   * Centaur
 * Tasha's Cauldron of Everything
   * Custom Lineage
-  * Customizing Your Origin
 
 ### Classes
 In addition to the following classes being allowed, all optional class features are allowed savve for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
@@ -104,11 +106,24 @@ The following spells are allowed:
   * These spells are only available to Dunamancers
 * Guildmaster's Guide to Ravnica
 * Icewind Dale: Rime of the Frostmaiden
+* TCoE
+  * Everything but __Dream of the Blue Veil__
 
 #### Not Allowed
 * Lost Laboratory of Kwalish
-  * Only Flock of Familiars & Galder's Speedy Courier
+* TCoE
+  * __Dream of the Blue Veil__
 
 ### Homebrews
+UA Contents are considered homebrews.
+
+#### Permanently Adopted
+* Races
+  * Mousefolk
+
+#### Rotation
+
+#### Out of Rotation
+
 
 ## Joining a Game
