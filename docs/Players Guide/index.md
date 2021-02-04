@@ -35,11 +35,11 @@ Below are lists for each aspect of character creation. A few key notes not menti
 If you're new to the game, feel free to ask for help in **#player-dropbox**, **#pc-help**, or even **#general-chat**.
 
 ### Races
-#### Approved Sources
+#### Allowed
 * Player's Handbook (including all variants)
 * Dungeon Master's Guide
-  * Eladrin Elf
-  * Variant Aasimar
+  * Elf (Eladrin)
+  * Aasimar (Variant)
 * Sword Coast Adventurer's Guide (including all variants)
 * Elemental Evil Player’s Companion
 * Volo's Guide to Monsters
@@ -51,7 +51,7 @@ If you're new to the game, feel free to ask for help in **#player-dropbox**, **#
 * Explorer’s Guide to Wildemount
   * Dragonborn (Draconblood & Ravenite), Halfling (Lotusden)
 * Mythic Odysseys of Theros
-  * Leonin, Triton
+  * Leonin, Minotaur, Triton
 * Tasha's Cauldron of Everything
   * Customizing your Origin
     * Please note what changes you made through this when you post your character sheet in **#pc-sheets**
@@ -86,12 +86,12 @@ In addition to the following classes being allowed, all optional class features 
   * **Wizard.** Graviturgist & Chronolurgist Wizard
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
-  * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
+  * All Optional Class Features are allowed except for Wizard's Cantrip Formula which have been modified.
   * **`Adjusted` Phantom Rogue.** *Token of the Departed.*
     * Changed wording of: “...you can ask the spirit associated with the trinket one question.”
-    * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question”
-    * **Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ instead (may change a cantrip out at ASI levels).
-  * __`Adjusted` Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
+    * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question.”
+  * **`Adjusted` Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ as followed:
+    * *4th Level Class Feature* __Cantrip Versatility.__ Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
 
 #### Not Allowed
 * Explorer's Guide to Wildemount
