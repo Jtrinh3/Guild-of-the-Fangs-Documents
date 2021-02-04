@@ -10,13 +10,14 @@ You need not worry about metagaming by using these books at the table. All that 
 It is worth noting that as historical estimates and anecdotes often are, the player’s handbook and other such guides are often inaccurate and certainly incomplete. What if the great Basalisk really only has four legs but the last time anyone fought one the lone survivor was a knight who suffered horrible brain damage blurring his memory of the event? Would that be a likely detail to be covered by the castle’s historian? Maybe the last time an ancient green dragon was slain was in the Bronze Age, a time of swords that couldn’t hold an edge the way modern steel can. Perhaps the party a king once commissioned to seek out and slay a beholder for study failed to track one altogether, but made up a story to save their necks. It’s possible that the cat-like form of a displacer beast was just the form that particular creature chose that day, and that was the last time one ever fought anyone who cared to write it down. While the guides we use are simple and effective for our use, they would not be that way in the context our characters would find them. Our guides instead allude to our characters’ clumsy interpretations of the histories they would really find. - [/u/REDDIT_BULL_WORM](https://www.reddit.com/r/DMAcademy/comments/e59efx/this_is_a_talk_i_like_to_give_at_session_zero_it/)
 
 ## Rules
+Please respect your fellow members and follow the guideline we set below. Failure to do so will result in infractions.
 * Don't be a wangrod. Treat others fairly. We're all here to have fun, not argue.
-* If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. __The DM is the arbiter of the rules.__
-* Use your common sense. Don't be *that* guy.
+* Use common sense. Don't be *that* guy.
 * If anything makes you uncomfortable during a session, do call for a time out at the table and address it.
-* By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
-* **#party-rolls** is not a channel for chatting; It is for DM keeping track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
-* As with D&D and most table top games, specific rules trumps general rules.
+* By default, Player vs Player (PvP) is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
+* If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. __The Dungeon Master abjudicates the rules.__
+* **#party-rolls** is not a channel for chatting; It is for the Dungeon Masters to keep track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
+* As with D&D and most table top games, specific rules trumps general rules and the DM's ruling is the most specific of all. Save minor issues for after the session to keep things flowing smoothly.
 
 ## Character Sheet
 We require you to have your character sheet always updated and in a format we can check, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc and the link to it updated in **#pc-sheets**.
@@ -147,7 +148,7 @@ These homebrew are always available for character creation as they satisfy many 
   * Mousefolk
 
 #### Rotation
-Occasionally, we may allow some homebrew and UA temporarily for character creations. These will be listed here.
+Occasionally, we may allow some homebrew and UA temporarily for character creations within a given time period. These will be announced & listed here.
 * None at the moment
 
 #### Out of Rotation
