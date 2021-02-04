@@ -1,4 +1,4 @@
-[Directory](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/) > [Player's Guide](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/Players Guide/)
+[Directory](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/) > [Player's Guide](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/Players%20Guide/)
 
 # Player's Guide
 
