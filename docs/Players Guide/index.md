@@ -139,7 +139,7 @@ The following spells are allowed:
 #### Not Allowed
 * Lost Laboratory of Kwalish
 
-### Homebrews
+### Homebrew Contents
 Homebrews are unofficial D&D 5e contents. Sometime, they are extremely well made and fits certain narrative that official contents doesn't cover. If so, we review them to be added. Too much can be bad, however.
 Critical Role & UA Contents are considered homebrews.
 In addition, if you elect to use a homebrew class/subclass, you are restricted from multiclassing.
@@ -157,5 +157,30 @@ Occasionally, we may allow some homebrew and UA temporarily for character creati
 
 #### Out of Rotation
 Some people are still alive and kicking with their character from rotation. We preserve them here for to track former homebrew we had allow.
+
+## Homebrew Rulings
+The following homebrew rules are used on the server:
+* You can drink a potion as a bonus action (administering a potion is still an action.)
+* If any ability states that "Your group can't become lost except by magical means.", instead it will read "You gain advantage on Wisdom (Survival) checks to not become lost."
+* Any item attuned to an NPC under your control (such as, but not limited to, familiars, beast companions, simulacrums, conjured creatures, hirelings, lickspittles, etc.) counts against your character’s limit of three attuned items. In order to attune to an item, the NPC attempting to attune to it must have an intelligence score of 6 or higher unless the item says otherwise.
+* Additionally, the creature must be capable of wearing/holding the item in particular that they're trying to use. For example, an owl cannot wear a ring or use a magic wand, and a warhorse cannot wield a sword. If you are unsure of the item/creature combination working, send a ping to helpers for clarification in **#player-dropbox**.
+
+## Spell Rules
+These spell have been adjusted to fit the balance of a West March game.
+* Spells for Buildings
+  * A spell that must be cast every day for a year to take permanent effect only needs to be cast every day for 30 IRL days within an area that you have ownership or have permission to.
+  * A spell that must be cast every day for 30 days to take permanent effect only needs to be cast every day for 7 IRL days within an area that you have ownership or have permission to.
+* Ceremony
+  * Time of the wedding effect from 7 days to the next 2 quests they share.
+* Raise Dead & Resurrection
+  * **`Adjusted` from: Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+  * to: and its save DC for all spells and class features. Every time the target starts a quest or after a period of 1 week, the penalty is reduced by 1 until it disappears.
+* Clone
+  * Time for clone to maturity reduced from 120 days to 30 IRL days
+* Hallow
+  * Casting Time change from 24 hours to 16 Downtime Ticket + 8 Free Downtime while not in a quest
+* Simulacrum
+  * A simulacrum counts as being the caster for the purposes of spells such as Wish or Simulacrum
+  * A character may only ever have one simulacrum at a time, this includes simulacrums who have been permanently changed into another creature by spells such as true polymorph.
 
 ## Joining a Game
