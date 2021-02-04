@@ -2,7 +2,7 @@
 
 # Player's Guide
 
-## Statement
+## Metagaming Statement
 The world we journey in is not defined by any texts or foretold tales. The books that lay before us (PHB, Xanathar’s, Monster Manual, etc) can be helpful in understanding this place, but should not be relied on for fact regarding history, trivia, metrics or the details of one’s foe.
 
 You need not worry about metagaming by using these books at the table. All that is found within represents information that one would be likely to find in a nearby library or from a local historian, and if you go to these lengths in our game your character is entitled to all the knowledge they hold. This includes the stat blocks that are listed for the species covered, which represent setting appropriate estimates and anecdotes detailing the appropriate metrics based on personal accounts and encounters.
