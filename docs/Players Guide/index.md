@@ -54,7 +54,8 @@ If you're new to the game, feel free to ask for help in **#player-dropbox**, **#
   * Leonin, Minotaur, Triton
 * Tasha's Cauldron of Everything
   * Customizing your Origin
-    * Please note what changes you made through this when you post your character sheet in **#pc-sheets**
+    * Please note what changes you made through this when you post your character sheet in **#pc-sheets**.
+
 All races with permanent, natural flight such as Aarakocra and Winged Tiefling will only gain the ability to fly starting at 4th Level.
 
 #### Not Allowed:
