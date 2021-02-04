@@ -18,7 +18,7 @@ Please respect your fellow members and follow the guideline we set below. Failur
 * By default, Player vs Player (PvP) is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. This includes touching other people’s possessions.
 * If you have feedback for the DM during a session, consider if it is of immediate importance or if it can wait till end of the session. __The Dungeon Master abjudicates the rules.__
 * **#party-rolls** is not a channel for chatting; It is for the Dungeon Masters to keep track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
-* As with D&D and most table top games, specific rules trumps general rules and the DM's ruling is the most specific of all. Save minor issues for after the session to keep things flowing smoothly.
+* As with D&D and most table top games, specific rules trump general rules and the DM's ruling is the most specific of all as the adjudicator. Save minor issues for after the session to keep things flowing smoothly.
 
 
 ## Character Sheet
