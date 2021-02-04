@@ -31,7 +31,7 @@ Below are lists for each aspect of character creation. A few key notes not menti
 * You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox**.
 * If you're unsure about anything, ask in **#pc-help**!
 
-If you're new to the game, feel free to ask 
+If you're new to the game, feel free to ask for help in **#player-dropbox**, **#pc-help**, or even **#general-chat**.
 
 ### Races
 #### Approved Sources
