@@ -37,10 +37,14 @@ If you're new to the game, feel free to ask for help in **#player-dropbox**, **#
 ### Races
 #### Approved Sources
 * Player's Handbook (including all variants)
+* Dungeon Master's Guide
+  * Eladrin Elf
+  * Variant Aasimar
 * Sword Coast Adventurer's Guide (including all variants)
 * Elemental Evil Player’s Companion
 * Volo's Guide to Monsters
 * The Tortle Package
+* One Grung Above All
 * Mordenkainen's Tome of Foes (including all variants)
 * Eberron: Rising From The Last War
   * Changeling, Kalaashtar, Shifter, Warforged
@@ -51,13 +55,10 @@ If you're new to the game, feel free to ask for help in **#player-dropbox**, **#
 * Tasha's Cauldron of Everything
   * Customizing your Origin
     * Please note what changes you made through this when you post your character sheet in **#pc-sheets**
-All races with permanent, natural flight such as Aarakocra and Winged Tiefling only gain the ability to fly starting at 4th Level
+All races with permanent, natural flight such as Aarakocra and Winged Tiefling will only gain the ability to fly starting at 4th Level.
 
 #### Not Allowed:
 These races are not available to be use for character creation.
-* Dungeon Master's Guide
-  * Eladrin Elf
-  * Variant Aasimar
 * Volo's Guide to Monsters
   * Yuan-ti
 * Guildmaster's Guide to Ravnica
@@ -139,13 +140,16 @@ The following spells are allowed:
 * Lost Laboratory of Kwalish
 
 ### Homebrews
-When using a homebrew class or subclass, you are not allowed to multiclass.
-UA Contents are considered homebrews.
+Homebrews are unofficial D&D 5e contents. Sometime, they are extremely well made and fits certain narrative that official contents doesn't cover. If so, we review them to be added. Too much can be bad, however.
+Critical Role & UA Contents are considered homebrews.
+In addition, if you elect to use a homebrew class/subclass, you are restricted from multiclassing.
 
 #### Permanently Adopted
 These homebrew are always available for character creation as they satisfy many criterias.
 * Races
   * Mousefolk
+* Class
+  * Blood Hunter
 
 #### Rotation
 Occasionally, we may allow some homebrew and UA temporarily for character creations within a given time period. These will be announced & listed here.
