@@ -50,10 +50,13 @@ If you're new to the game, feel free to ask
 * Tasha's Cauldron of Everything
   * Customizing your Origin
     * Please note what changes you made through this when you post your character sheet in **#pc-sheets**
-All races with permanent, natural flight such as Aarakocra and Winged Tiefling only gain the ability to fly at 4th Level
+All races with permanent, natural flight such as Aarakocra and Winged Tiefling only gain the ability to fly starting at 4th Level
 
 #### Not Allowed:
+These races are not available to be use for character creation.
 * Dungeon Master's Guide
+  * Eladrin Elf
+  * Variant Aasimar
 * Volo's Guide to Monsters
   * Yuan-ti
 * Guildmaster's Guide to Ravnica
@@ -69,7 +72,7 @@ All races with permanent, natural flight such as Aarakocra and Winged Tiefling o
   * Custom Lineage
 
 ### Classes
-In addition to the following classes being allowed, all optional class features are allowed savve for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
+In addition to the following classes being allowed, all optional class features from (TCoE) are allowed save for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
 
 #### Allowed
 * Player's Handbook
@@ -81,12 +84,12 @@ In addition to the following classes being allowed, all optional class features 
   * **Wizard.** Graviturgist & Chronolurgist Wizard
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
+  * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
   * **`Adjusted` Phantom Rogue.** *Token of the Departed.*
     * Changed wording of: “...you can ask the spirit associated with the trinket one question.”
     * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question”
-  * All Optional Class Features are allowed except for Wizard's Cantrip Formula is allowed.
     * **Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ instead (may change a cantrip out at ASI levels).
-      * __Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
+  * __`Adjusted` Cantrip Versatility.__ *4th Level Class Feature* Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
 
 #### Not Allowed
 * Explorer's Guide to Wildemount
@@ -95,24 +98,33 @@ In addition to the following classes being allowed, all optional class features 
 #### Additional Rules
 
 ### Background
-Backgrounds from the following books are permitted
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world.
+Backgrounds from the following books are permitted. Others are not. You may also opt for the "Customizing 
 * Player's Handbook
     Customizing a Background (PHP 125)
-Sword Coast Adventurer's Guide
-Curse of Strahd
-Tomb of Annihilation
-Mythic Odysseys of Theros
-Ghosts of Saltmarsh 
+* Sword Coast Adventurer's Guide
+* Curse of Strahd
+* Tomb of Annihilation
+* Mythic Odysseys of Theros
+* Ghosts of Saltmarsh 
+
+#### Not Allowed
 
 ### Feats
+A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. Everyone time you are given an "Ability Score Increase" as part of your class, you may opt to select a feat instead.
+
+#### Allowed
 The following are the feats that are allowed:
 * Player's Handbook
 * Sword Coast Adventurer's Guide
 * Xanathar's Guide to Everything
 * Eberron: Rising From The Last War
+  * __Aberrant Dragonmark.__ We are not using the optional greater power.
 * Tasha's Cauldron of Everything
 
 ### Spells
+
+#### Allowed
 The following spells are allowed:
 * Player's Handbook
 * Sword Coast Adventurer's Guide
@@ -121,12 +133,9 @@ The following spells are allowed:
   * These spells are only available to Chronologist & Graviturgist wizards
 * Icewind Dale: Rime of the Frostmaiden
 * TCoE
-  * Everything but __Dream of the Blue Veil__
 
 #### Not Allowed
 * Lost Laboratory of Kwalish
-* TCoE
-  * __Dream of the Blue Veil__
 
 ### Homebrews
 When using a homebrew class or subclass, you are not allowed to multiclass.
