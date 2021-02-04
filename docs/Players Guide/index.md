@@ -1,4 +1,4 @@
-[Back to Main](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/)
+[Directory](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/) > [Player's Guide](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/Players Guide/)
 
 # Player's Guide
 
@@ -8,6 +8,7 @@ The world we journey in is not defined by any texts or foretold tales. The books
 You need not worry about metagaming by using these books at the table. All that is found within represents information that one would be likely to find in a nearby library or from a local historian, and if you go to these lengths in our game your character is entitled to all the knowledge they hold. This includes the stat blocks that are listed for the species covered, which represent setting appropriate estimates and anecdotes detailing the appropriate metrics based on personal accounts and encounters.
 
 It is worth noting that as historical estimates and anecdotes often are, the player’s handbook and other such guides are often inaccurate and certainly incomplete. What if the great Basalisk really only has four legs but the last time anyone fought one the lone survivor was a knight who suffered horrible brain damage blurring his memory of the event? Would that be a likely detail to be covered by the castle’s historian? Maybe the last time an ancient green dragon was slain was in the Bronze Age, a time of swords that couldn’t hold an edge the way modern steel can. Perhaps the party a king once commissioned to seek out and slay a beholder for study failed to track one altogether, but made up a story to save their necks. It’s possible that the cat-like form of a displacer beast was just the form that particular creature chose that day, and that was the last time one ever fought anyone who cared to write it down. While the guides we use are simple and effective for our use, they would not be that way in the context our characters would find them. Our guides instead allude to our characters’ clumsy interpretations of the histories they would really find. - [/u/REDDIT_BULL_WORM](https://www.reddit.com/r/DMAcademy/comments/e59efx/this_is_a_talk_i_like_to_give_at_session_zero_it/)
+
 
 ## Rules
 Please respect your fellow members and follow the guideline we set below. Failure to do so will result in infractions.
@@ -19,8 +20,10 @@ Please respect your fellow members and follow the guideline we set below. Failur
 * **#party-rolls** is not a channel for chatting; It is for the Dungeon Masters to keep track of mission rolls. Consider **#adventure-party** for mission related chatter and **#gen-chat** for most of everything else.
 * As with D&D and most table top games, specific rules trumps general rules and the DM's ruling is the most specific of all. Save minor issues for after the session to keep things flowing smoothly.
 
+
 ## Character Sheet
 We require you to have your character sheet always updated and in a format we can check, be it DnDBeyond, GSheet, Dicecloud, scan your paper and upload it via DropBox, etc and the link to it updated in **#pc-sheets**.
+
 
 ## Character Creation
 Below are lists for each aspect of character creation. A few key notes not mentioned:
@@ -29,13 +32,19 @@ Below are lists for each aspect of character creation. A few key notes not menti
 * We use fixed HP (die average rounded up)
 * Point buy for character stat.
 * You may opt to start with starting equipment or maximum possible starting gold. Do note that starting with starting gold means you forfeit your background provided equipment.
-* You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox**.
+* You may respec your character freely before you reach level 6, though don't do it too often. Consider your choice or just stick to one thing throughout. Once you play a game after attaining level 6, you finalize your decision. If you wish to make any changes past this point, you should consult with the DM in **#player-dropbox** though it is extremely rare for any major changes to be considered without good reasoning.
 * If you're unsure about anything, ask in **#pc-help**!
 
 If you're new to the game, feel free to ask for help in **#player-dropbox**, **#pc-help**, or even **#general-chat**.
 
+For below, if a source book is listed without bullet point, that mean the entirety of that content is accepted ommiting those that are in the **Not Allowed** section. Remember, specifics trump general rules.
+
+
 ### Races
+Humans are the most common people in the worlds of D&D, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. Your character belongs to one of these peoples.
+
 #### Allowed
+These are the source you are allowed to select your character's race from.
 * Player's Handbook (including all variants)
 * Dungeon Master's Guide
   * Elf (Eladrin)
