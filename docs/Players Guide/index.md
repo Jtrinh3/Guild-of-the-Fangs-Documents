@@ -194,3 +194,14 @@ These spell have been adjusted to fit the balance of a West March game.
   * A character may only ever have one simulacrum at a time, this includes simulacrums who have been permanently changed into another creature by spells such as true polymorph.
 
 ## Joining a Game
+
+## Joining the Dungeon Master Team
+So you want to be come a Dungeon Master, eh? Well becoming a Dungeon Master on the Fang is more than just being a capable of hosting a game. It involves working cooperatively along side the other Dungeon Masters and keeping a balance outlook on the server. You must take into consideration everything you do for the long term impact on the balance of the server. For example, if you reward one player fire immunity, that throws the balance off for any red dragon encounter the other Dungeon Master wishes to run!
+
+If you're still interested and have read the [Dungeon Master's Guide to the Fang](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/DMs%20Guide/), then just ask on the **#player-dropbox**.
+
+## Addressing Problems
+Not everything might go exactly as you might expect. Perhaps someone did something that makes you uncomfortable. If so, it is suggest you follow these steps to address the problems, only moving onto the next if you feel it wasn't properly look over.
+1. Confront the person directly. If you don't feel comfortable talking to them, you can move straight to the next step. Most tabletop problems can be resolve with a direct confrontation. If the person didn't know they cause an issue to begin with, how will they prevent it in the future?
+2. Bring it up to the admin. Dungeon Masters are in charge of running the game and world mechanic, where as Admins are in charge of dealing with the leg work of the Discord server and its structure.
+3. Use the **#player-dropbox** channel. This should be the last resort for bringing up social issues as we want to keep drama down to a minimum.
