@@ -97,10 +97,11 @@ In addition to the following classes being allowed, all optional class features 
 * Mythic Odysseys of Theros
 * Tasha's Cauldron of Everything
   * All Optional Class Features are allowed except for Wizard's Cantrip Formula which have been modified.
-  * **`Adjusted` Phantom Rogue.** *Token of the Departed.*
+  * **`Adjusted` Rogue - Phantom Rogue.** *Token of the Departed.*
     * Changed wording of: “...you can ask the spirit associated with the trinket one question.”
     * into: “...you can ask a spirit associated with the remains of a creature within 30 feet of you one question.”
-  * **`Adjusted` Wizard.** __Cantrip Formula__ is replaced with __Cantrip Versatility__ as followed:
+  * **`Adjusted` Wizard - Order of the Scribe.** Awakened spell book damage substitution is limited to one's INT mod in usage which comes back after completing a long rest.
+  * **`Adjusted` Wizard - Cantrip Formula** is replaced with __Cantrip Versatility__ as followed:
     * *4th Level Class Feature* __Cantrip Versatility.__ Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from the wizard spell list.
 
 #### Not Allowed
