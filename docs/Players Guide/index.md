@@ -146,7 +146,7 @@ The following spells are allowed:
 * Explorer’s Guide to Wildemount
   * These spells are only available to Chronologist & Graviturgist wizards
 * Icewind Dale: Rime of the Frostmaiden
-* TCoE
+* Tasha's Cauldron of Everything
 
 #### Not Allowed
 * Lost Laboratory of Kwalish
