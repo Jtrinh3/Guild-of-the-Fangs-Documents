@@ -157,11 +157,11 @@ Critical Role & UA Contents are considered homebrews.
 In addition, if you elect to use a homebrew class/subclass, you are restricted from multiclassing.
 
 #### Permanently Adopted
-These homebrew are always available for character creation as they satisfy many criterias.
+These homebrew are always available for character creation as they successfully pass the criterias we look for in what makes an appropriate homebrew.
 * Races
-  * Mousefolk
+  * [Mousefolk](https://drive.google.com/file/d/0B6eHVaEIoWbBZWRid0tkMnhPMXM/view) by [/u/skybug12](https://www.reddit.com/user/skybug12)
 * Class
-  * Blood Hunter
+  * [Blood Hunter](https://www.dndbeyond.com/classes/blood-hunter) by Matthew Mercer
 
 #### Rotation
 Occasionally, we may allow some homebrew and UA temporarily for character creations within a given time period. These will be announced & listed here.
