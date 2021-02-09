@@ -81,7 +81,7 @@ These races are not available to be use for character creation.
   * Satyr
   * Centaur
 * Tasha's Cauldron of Everything
-  * Custom Lineage
+  * Custom Lineage (AKA variant non-human)
 
 ### Classes
 In addition to the following classes being allowed, all optional class features from (TCoE) are allowed save for Wizard's Cantrip Forumla which will be replace with Cantrip Versatility as detailed below.
@@ -112,9 +112,10 @@ In addition to the following classes being allowed, all optional class features 
 
 ### Background
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world.
-Backgrounds from the following books are permitted. Others are not. You may also opt for the "Customizing 
+Backgrounds from the following books are permitted. Others are not. You do not start with your background starting gear if you opted to use starting gold.
 * Player's Handbook
-    Customizing a Background (PHP 125)
+  * Customizing a Background (PHP 125)
+    * Reminder: You use the gear pertaining to the background feat you chose but if you opt to start with starting gold, you don't gain these.
 * Sword Coast Adventurer's Guide
 * Curse of Strahd
 * Tomb of Annihilation
