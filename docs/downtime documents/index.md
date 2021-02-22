@@ -21,7 +21,7 @@ In order to craft a spell scroll, you need several things:
 - [ ] Gold! You're gonna need plenty of it for higher level spells!
 
 Once you satisfy all of that, you can consult the following table for how much gold and time you need!
-Spell Level | Days | Total Downtime Required | Gold Needed
+Spell Level | Days Req. | Hours of Downtime Req. | Gold Needed
 ----------- | ----------- | --------------- | ----------- |
 Cantrip	| 1 | 8 | 15 
 1st	| 1 | 8 | 25 
