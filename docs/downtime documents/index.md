@@ -11,7 +11,7 @@ Each day, you accrue 8 downtime and can have up to a maximum of 60 hours stored 
 ## Basic Crafting
 You can craft non-magical items available in the shop catalog in your free time! In order to do so, you must pay half the item’s worth in gold in addition to a whole day per five gold the item is worth in total. In order to do so, however, you must have the required tool proficiency. For example, someone with Herbalism may create a potion of healing (valued at 50 gold) by spending 25 gold and 10 days. These effort does not need to be consecutive and others may assist in creating the item with you so long as they have the proficiency to do so. If you’re not certain what proficiency is required, feel free to ask a Dungeon Master!
 For some more extreme items, a heavy full plate (1500 gold) requires 750 gold worth of material and 300 days worth of work. But with 10 people working on it at once, this can be reduced to just 30 days!
-If you are crafting, post what you are making and your progress on it. Each time you or someone else contribute progress to it, create a new post in the #downtime-log channel.
+If you are crafting, post what you are making and your progress on it. If the object in question takes several days, each time you or someone else contribute progress to it, create a **replying** post in the #downtime-log channel.
 
 ## Scribing Spell Scrolls
 In order to craft a spell scroll, you need several things:
