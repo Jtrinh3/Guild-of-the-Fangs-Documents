@@ -1,5 +1,5 @@
 # Accruing Downtime
-Your currently active character can begin collecting downtime after your character sheet is approved. After it is approved you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected. Downtime can be used for a number of things outside of doing quests. Some of these depend on the proficiencies of your character.
+Your active character can begin collecting downtime after your character sheet is approved. After approval, you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected, use it that day or lose it! Downtime can be used for a number of things while you are not on quests. Your character's skill and tool proficiencies decide what type of activity they may partake in.
 
 # Using Downtime
 You can use downtime to perform a number of activities to benefit your character and others. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime.
@@ -80,7 +80,7 @@ Guild Artisan | Guild Membership - For any downtime activity that lists your art
 Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
 Knight of the Order , Marine , Mercenary Veteran , Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
-Urban Bounty Hunter | Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshiftier or bounty, you have advantage on the investigation check. You may use make an Charisma (Intimidation) check instead of a Intelligence (Investigation) when doing the research activity.
+Urban Bounty Hunter | Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshiftier or bounty, you have advantage on the investigation check. You may choose to make a Charisma (Intimidation) check in place of an Intelligence (Investigation) when doing the research activity.
 
 # Crafting
 
