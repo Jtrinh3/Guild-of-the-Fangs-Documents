@@ -76,8 +76,22 @@ Urban Bounty Hunter | Ear to the Ground - When performing the Research activity 
 # Crafting
 
 ## Alchemy and Potion Crafting
+A character can practice alchemy in their downtime by crafting useful concoctions such as potions, acid, or alchemist's fire.
+
 ### Requirements
+Proficiency in Herbalism or Alchemist kits, which ever you use the Item must be within your inventory
+
+In order to brew a potion you must have taken an hour to examine the item or cast the spell Identify on it, in order to know how you can replicate it. Homebrew Items cannot be crafted unless otherwise stated 
 ### Resources
+You'll also need an amount of gold and downtime days depending on the rarity of the item.
+
+Rarity |	Days | Base Cost | Minimum Level |
+----------- | ----------- | ----------- | ----------- |
+Common | 2 | 50gp | 3 
+Uncommon | 10 | 250gp | 3
+Rare | 25 | 2,500gp | 6
+Very Rare | 50 | 25,000gp | 11
+Legendary | 100 | 250,000 | 17
 ### Resolution
 ### Help
 
