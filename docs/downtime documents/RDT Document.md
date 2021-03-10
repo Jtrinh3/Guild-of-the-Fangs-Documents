@@ -77,80 +77,80 @@ Urban Bounty Hunter | Ear to the Ground - When performing the Research activity 
 # Crafting
 
 ## Alchemy and Potion Crafting
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Blacksmithing
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Brewing
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Cooking
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Non-Magical Items
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Scroll Crafting
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Magic Item Crafting
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 ## Poison Crafting
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 # Intensive Training
-Requirements
-Resources
-Resolution
-Help
+### Requirements
+### Resources
+### Resolution
+### Help
 
 # Research
-Requirements
-Resources
-Resolution
+### Requirements
+### Resources
+### Resolution
 
 # Spell Copying (Wizards and Ritual Casters)
-Requirements
-Resources
-Resolution
+### Requirements
+### Resources
+### Resolution
 
 # Learning Tools and Skills
-Requirements
-Resources
-Resolution
+### Requirements
+### Resources
+### Resolution
 
 # Work
 ### Requirements
-Resources
-Resolution
+### Resources
+### Resolution
 
 # Worship
-Requirements
-Resources
-Resolution
+### Requirements
+### Resources
+### Resolution
