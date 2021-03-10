@@ -121,7 +121,7 @@ You may also upgrade a mundane non-magical weapon to Masterwork quality giving +
 The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
 
 ### Help
-A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
+A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item (2 Players Involved Max). Both characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 ## Brewing
 Brewing is the art of producing beer with your downtime. Not only does beer serve as an alcoholic beverage, but the process of brewing purifies water. Crafting a beer takes weeks of fermentation but only a few hours of work.
@@ -138,20 +138,59 @@ First choose a type of brew you'd like to make from the list of beers. Then make
 You may only store one batch of beer at a time. To make more you must consume or sell your current batch.
 
 #### Beer Effects
+Each beer has a different effect on you and your allies at the end of a short rest. 
+
+Beer |	Effects 
+----------- | ----------- |
 
 ### Help
 
 ## Cooking
+Cooking can be used for making strange exotic meals using a variety strange plants and animals.
+
 ### Requirements
+Proficiency with cooking utensils
+
 ### Resources
+To cook a meal requires 1 days of downtime. This is spend shopping for the ingredients, cooking the food and freezing it
+
+You'll also need to purchase an amount of materials for the meal equal to half the selling cost.
 ### Resolution
+First choose a type of meal you'd like to make from the list of meals. Then make a Intelligence or Wisdom (cooking utensils) check against the difficulty check. You can either keep the batch or sell it for the listed amount. Meal can be consumed for a short rest but only one meal may be consumed during a short rest. Maximum of three meal can be eaten before a long rest
+
+Description |	DC | Price | Effect |
+----------- | ----------- | ----------- | -----------
+
 ### Help
 
 ## Non-Magical Items
+You can the time and money into crafting items with your artisan tools. Crafting any non-magical item or consumable is subject to these rules.
+
 ### Requirements
+Proficiency with a relevant Artisan’s Tools
+
+You must be familiar with the item you wish to craft either by having studied one before or having cast the Identify Spell on it.
+
+In order to craft a consumable you must have taken an hour to examine the item or cast the spell Identify on it, in order to know how you can replicate it. Homebrew Items cannot be crafted unless otherwise stated
+
 ### Resources
+Raw materials worth half of the item (or items) selling cost and a number of downtime days equal to its gold cost divided by: your tool modifier , whichever is larger.
+
+If the item you wish to craft does not have a price listed in the PHB or in the server's store document you may refer to the table below to find the price. Consumables are half the listed cost.
+
+Rarity |	Cost |
+----------- | ----------- |
+Common | 100gp
+Uncommon | 500gp
+Rare | 5,000gp
+Very Rare | 50,000 gp
+Legendary | 500,000 gp
+
 ### Resolution
+The character successfully crafts the non-magical and can add it to their inventory or sell it for the full listed cost. 
+
 ### Help
+A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item (2 Players Involved Max). Both characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 ## Scroll Crafting
 ### Requirements
