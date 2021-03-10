@@ -65,15 +65,15 @@ Anthropologist | Adept Linguist - When performing the Research activity regardin
 Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon or relic, you have advantage on the investigation check.
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organisation, you have advantage on the investigation check.
 Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same. Gold costs for Brewing activity are halved.
-Cloistered Scholar / Cobalt Scholar/ Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
-Entertainer / Grinner | For the Work activity, you may divide by 2 instead of 3 for the resolution. If able to, you may roll with advantage for the Worship activity.
-Fisher / Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
-Folk Hero / Inheritor | Rustic Hospitality - For the Work activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 20% less gold for you.
-Guild Artisan | Guild Membership - For any downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
-Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
-Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
-Knight of the Order / Marine / Mercenary Veteran / Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
-Urban Bounty Hunter | Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshiftier or bounty, you have advantage on the investigation check. You may use make an Charisma (Intimidation) check instead of a Intelligence (Investigation) when doing the research activity.
+Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
+Entertainer, Grinner | For the Work activity, you may divide by 2 instead of 3 for the resolution. If able to, you may roll with advantage for the Worship activity.
+Fisher, Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
+Folk Hero , Inheritor , Rustic Hospitality - For the Work activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 20% less gold for you.
+Guild Artisan , Guild Membership - For any downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
+Haunted One , Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
+Hermit , Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
+Knight of the Order , Marine , Mercenary Veteran , Soldier , Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
+Urban Bounty Hunter , Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshiftier or bounty, you have advantage on the investigation check. You may use make an Charisma (Intimidation) check instead of a Intelligence (Investigation) when doing the research activity.
 # Crafting
 ## Alchemy and Potion Crafting
 ## Blacksmithing
