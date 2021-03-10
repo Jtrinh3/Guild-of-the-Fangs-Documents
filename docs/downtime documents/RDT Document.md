@@ -58,20 +58,22 @@ Weaver’s tools |	Dex or Wis
 Woodcarver’s tools |	Dex or Wis
 
 # Background Features
-Acolyte
-Anthropologist
-Archaeologist
-City Watch
-Clan Crafter
-Cloistered Scholar / Cobalt Scholar/ Sage
-Entertainer / Grinner
-Fisher / Outlander
-Folk Hero / Inheritor
-Guild Artisan
-Haunted One
-Hermit
-Knight of the Order / Marine / Mercenary Veteran / Soldier
-Urban Bounty Hunter
+Background(s) |	Feature
+----------- | ----------- |
+Acolyte |
+Anthropologist |
+Archaeologist |
+City Watch |
+Clan Crafter |
+Cloistered Scholar / Cobalt Scholar/ Sage |
+Entertainer / Grinner |
+Fisher / Outlander |
+Folk Hero / Inheritor |
+Guild Artisan |
+Haunted One |
+Hermit |
+Knight of the Order / Marine / Mercenary Veteran / Soldier |
+Urban Bounty Hunter |
 # Crafting
 ## Alchemy and Potion Crafting
 ## Blacksmithing
