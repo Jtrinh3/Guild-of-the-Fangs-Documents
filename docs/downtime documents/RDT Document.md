@@ -29,32 +29,34 @@ Fire Rune (Rune Knight Fighter) | Counts as expertise.
 # Tool Checks
 If an activity calls for a tool check or for your tool modifier you may have a choice of which ability to use, depending on the tool. Consult the table below for which ability checks you may use.
 
-Tool	Available Abilities
-Alchemist’s supplies	Int
-Brewer’s supplies	Int or Wis
-Calligrapher's Supplies	Dex or Cha
-Carpenter’s tools	Str or Int
-Cartographer’s tools	Int or Wis
-Cobbler’s tools	Dex or Int
-Cook’s utensils	Int or Wis
-Disguise Kit	Wis or Cha
-Forgery Kit	Dex or Int
-Gaming set	Int or Cha
-Glassblower’s tools	Dex or Wis
-Herbalism Kit	Int or Wis
-Jeweler’s tools	Wis
-Leatherworker’s tools	Dex or Wis
-Mason’s tools	Str or Int
-Musical instrument	Cha
-Navigator’s tools	Int or Wis
-Painter’s supplies	Dex or Cha
-Poisoner's Kit	Int or Wis
-Potter’s tools	Dex or Wis
-Smith’s tools	Str or Con
-Thieves’ tools	Dex
-Tinker’s tools	Int
-Weaver’s tools	Dex or Wis
-Woodcarver’s tools	Dex or Wis
+Tool |	Available Abilities
+----------- | ----------- | 
+Alchemist’s supplies |	Int
+Brewer’s supplies |	Int or Wis
+Calligrapher's Supplies |	Dex or Cha
+Carpenter’s tools |	Str or Int
+Cartographer’s tools |	Int or Wis
+Cobbler’s tools |	Dex or Int
+Cook’s utensils |	Int or Wis
+Disguise Kit |	Wis or Cha
+Forgery Kit |	Dex or Int
+Gaming set |	Int or Cha
+Glassblower’s tools |	Dex or Wis
+Herbalism Kit |	Int or Wis
+Jeweler’s tools |	Wis
+Leatherworker’s tools |	Dex or Wis
+Mason’s tools |	Str or Int
+Musical instrument |	Cha
+Navigator’s tools |	Int or Wis
+Painter’s supplies |	Dex or Cha
+Poisoner's Kit |	Int or Wis
+Potter’s tools |	Dex or Wis
+Smith’s tools |	Str or Con
+Thieves’ tools |	Dex
+Tinker’s tools |	Int
+Weaver’s tools |	Dex or Wis
+Woodcarver’s tools |	Dex or Wis
+
 # Background Features
 Acolyte
 Anthropologist
