@@ -12,18 +12,21 @@ Certain activities can grant you additional gold, skills, items, or information.
 You may be able to enlist your fellow adventurers to assist you in certain downtime activities for an agreed upon price. Each activity will have a section labeled as "Help" to disclose who and how many individuals are able to assist you with your activity. Prices of services depend on the two parties involved and can change based on the nature of the work. Either party can contribute downtime days towards the completion of the work only if they meet the requirements listed for that activity.
 # Class Features
 What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable.
-Bardic Inspiration (Bard) - No
-Peerless skill (Lore Bard) - Yes
-Reliable Talent (Rouge) - Yes
-Guidance (Spell) - No
-Enhance Ability (Spell) - No
-Help Action - No
-Rage (Barbarian) - No
-Persistent Rage (Barbarian) - No, until level 20.
-Portent (Divination Wizard) - No
-Artisan's Blessing (Forge Cleric) - Using this ability for any relevant activity allows you to remove the downtime cost for a recipe that costs 100 gp or less
-Fabricate (Spell) - Using this spell for any relevant activity allows you to cut the downtime cost in half (rounded down)
-Fire Rune (Rune Knight Fighter) - Counts as expertise.
+Feature | Usable?
+----------- | ----------- |
+ 
+Bardic Inspiration (Bard) | No
+Peerless skill (Lore Bard) | Yes
+Reliable Talent (Rouge) | Yes
+Guidance (Spell) | No
+Enhance Ability (Spell) | No
+Help Action | No
+Rage (Barbarian) | No
+Persistent Rage (Barbarian) | No, until level 20.
+Portent (Divination Wizard) | No
+Artisan's Blessing (Forge Cleric) | Using this ability for any relevant activity allows you to remove the downtime cost for a recipe that costs 100 gp or less
+Fabricate (Spell) | Using this spell for any relevant activity allows you to cut the downtime cost in half (rounded down)
+Fire Rune (Rune Knight Fighter) | Counts as expertise.
 # Tool Checks
 If an activity calls for a tool check or for your tool modifier you may have a choice of which ability to use, depending on the tool. Consult the table below for which ability checks you may use.
 
