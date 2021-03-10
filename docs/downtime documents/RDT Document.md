@@ -13,8 +13,7 @@ You may be able to enlist your fellow adventurers to assist you in certain downt
 # Class Features
 What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable.
 Feature | Usable?
------------ | ----------- |
- 
+----------- | ----------- | 
 Bardic Inspiration (Bard) | No
 Peerless skill (Lore Bard) | Yes
 Reliable Talent (Rouge) | Yes
