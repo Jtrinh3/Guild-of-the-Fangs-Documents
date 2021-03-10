@@ -91,20 +91,54 @@ Common | 2 | 50gp | 3
 Uncommon | 10 | 250gp | 3
 Rare | 25 | 2,500gp | 6
 Very Rare | 50 | 25,000gp | 11
-Legendary | 100 | 250,000 | 17
+Legendary | 100 | 250,000gp | 17
+
 ### Resolution
+Make a number of d20 checks equal to the total number of days needed. Add your proficiency to each roll and calculate how many fail a DC16. If you have expertise in the relevant tool set, you may add your proficiency bonus twice to each roll and calculate how many fail a DC16.
+
+For each failed check the downtime and gold cost are increased by 1 day and 25 gp (you do not roll additional d20's for these days).
+
+If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid).
 ### Help
+You can help other players brew potions. The downtime and gold cost may be split in whatever way you wish.
+
+If the downtime is split evenly between all players, the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
 
 ## Blacksmithing
+Smithing lets you use your downtime to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
+
 ### Requirements
+Smith’s Tools and proficiency in them.
+
+In order to craft a copy of an item you must have seen and examined the item beforehand.
+
 ### Resources
+Raw materials worth half of the item (or items) selling cost and a number of downtime days equal to its gold cost divided by: your Smith's tools modifier or 5, whichever is larger. Broken items of the same or similar type can also be used as resources to repair or alter items.
+
+You may also upgrade a mundane non-magical weapon to Masterwork quality giving +1 to attack rolls made with that weapon. Doing so has a cost of 300 gp and a 5 downtime days.
+
 ### Resolution
+The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
+
 ### Help
+A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 ## Brewing
+Brewing is the art of producing beer with your downtime. Not only does beer serve as an alcoholic beverage, but the process of brewing purifies water. Crafting a beer takes weeks of fermentation but only a few hours of work.
+
 ### Requirements
+Brewer's Supplies and proficiency in them.
 ### Resources
+To craft a beer requires 3 days of downtime which are spent over the course of a week checking and maintaining the process and finally sealing and storing it. You may spend the three days in any order however the crafting process is not finished until a week from the first dedicated day AND ONLY AFTER the third day of Downtime has been spent.
+
+You'll also need to purchase an amount of materials for the brew equal to half the selling cost.
 ### Resolution
+First choose a type of brew you'd like to make from the list of beers. Then make a Intelligence or Wisdom (Brewer's Tools) check against the difficulty check. If you fail the DC the beer becomes a Dud Brew. You can either keep the batch or sell it for the listed amount (half that amount if you used some already).
+
+You may only store one batch of beer at a time. To make more you must consume or sell your current batch.
+
+#### Beer Effects
+
 ### Help
 
 ## Cooking
