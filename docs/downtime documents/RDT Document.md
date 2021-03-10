@@ -21,7 +21,6 @@ Guidance (Spell) | No
 Enhance Ability (Spell) | No
 Help Action | No
 Rage (Barbarian) | No
-Persistent Rage (Barbarian) | No, until level 20.
 Portent (Divination Wizard) | No
 Artisan's Blessing (Forge Cleric) | Using this ability for any relevant activity allows you to remove the downtime cost for a recipe that costs 100 gp or less
 Fabricate (Spell) | Using this spell for any relevant activity allows you to cut the downtime cost in half (rounded down)
