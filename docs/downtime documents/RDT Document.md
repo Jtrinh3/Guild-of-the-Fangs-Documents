@@ -256,26 +256,107 @@ You gain 100 xp per day of training.
 You can assist someone’s training with no requirements other than 1 downtime day per day spent by the character training. You do not gain experience but may request payment from the trainee for the cost of your time.
 
 # Research
+The world contains many secrets waiting to be discovered and understood. Such things are generally only truly able to be understood with field research or with more experience, yet it is never unwise to go to a library and seek past knowledge to aid in your current endeavors, or simply run tests in a safer, and academic environment.
+
 ### Requirements
+Approval from the DM before the quest is run or approval from a DM involved with the subject you wish to research.
+
 ### Resources
+A character needs access to a well stocked library to conduct research. Assuming such access is available, conducting research requires one downtime day and at least 50 gp spent on materials, library costs, and other expenses. Any answers or information given are subject to the limitations of the library in question/use.
+
 ### Resolution
+The character declares the focus of the research: a specific creature, person, place, or thing. After one downtime day, the character makes an Intelligence (Investigation). Additionally the character gains a +1 bonus per 100 gp spent beyond the initial 50 gp, to a maximum of +6, this cost represents hiring additional assistants to aid in your research.
+
+Once rolled you may ask of number of questions about the subject you researched according to the table below. The DM may allow tangential questions if they pop up (for instance if your research reveals a location after the first question you may ask your second question about the location, etc.) but may curate the questions how they wish.
+
+Check Total |	Outcome |
+----------- | ----------- |
+1-5 | No Effect
+6-10 | DM will only tell you something interesting. It's on you to make it useful
+11-20 | DM will tell you something interesting and useful about the subject relevant to your situation
+21-25 | You may ask one follow up question
+26-30 | You may ask two follow up questions
+31-35 | You may ask three follow up questions
+36+ | You may ask the DM "what is the question I should be asking?" The DM will answer Honestly
+
+The DM of the quest has final say on what this information is revealed through this manner. For a monster or an NPC, they can reveal elements of statistics or personality. For a location, they can reveal secrets about it, such as a hidden entrance, the answer to a riddle, or the nature of a creature that guards the place. However this is all up to the DM to decide and what information can be obtained through this manner.
 
 # Spell Copying (Wizards and Ritual Casters)
+Aspiring Wizards and Ritual Casters tend to commit their time to the transcribing and practice of new spells to their spell books. When spending downtime to do this you put in the time to both translate and record the spell as well as practice it a few times for when you need to use it.
+
 ### Requirements
+You need the Wizard Spellcasting feature, the Ritual Caster feat, or the Book of Ancient Secrets Warlock invocation. The spells you copy must follow the requirements of that feature.
+
+You also need a spell book or scroll containing the spell(s) you wish to copy.
 ### Resources
+You can copy a number of spell levels up to your proficiency bonus + 3 per day (e.g. At level 5 you could copy 2 3rd levels spells or 6 1st level spells).
+
+The total downtime cost required is the spell level total of all spells to be copied divided by your proficiency bonus plus 3 (rounded up).
+
+The total gold cost is the same as the PHB. The spell level total of all spells to be copied times 50 gold.
+
 ### Resolution
+The spells are copied into your spell book.
+
+If any of the spells were copied from a scroll you must beat an Arcana check to successfully copy it. The DC is 10 + the Spell Level of the scroll. If you fail the check you do not copy the spell (the downtime and gold is still consumed).
 
 # Learning Tools and Skills
+Downtime can be spent putting in the time to learn a new language, trade, or skill that you are partial to or think you'll need later. You may even fine tune your skills to an even more skilled state.
+
 ### Requirements
+You may only learn skill proficiencies in skills that pertain to the starting skills of a class you have at least 3 levels in. Otherwise you are free to choose.
+
 ### Resources
+Learning a skill, language, or tool proficiency costs 30 days of downtime and 1,000 gp.
+
+If gaining expertise you must have not gained expertise through this activity before and must spend an additional 15 days and 500 gold.
+
 ### Resolution
+You become proficient in the skill, language, or tool that you chose.
+
+Expertise may be gained in any skill, or tool with which you are already proficient regardless of class. However, once you gain expertise through downtime you may not do so again.
 
 # Work
+While not common especially for active adventurers, some adventurers enjoy a simple job to make a little extra gold. The work can vary widely but you can be sure of a paycheck in the end.
+
 ### Requirements
+Must speak Common.
+
 ### Resources
+You must spend 5 downtime days (40 hours) to perform this activity and can only do this activity two times per calander month.
+
 ### Resolution
+Choose up to 3 of your skills that you are proficient in and make a skill or tool check for each one. Add the totals together, divide by 3 and round down.
+
+Your character finds work doing a job that utilizes their skills and paying an amount of gold per day equal to the total. Gold is gained at the end of the 5th day.
 
 # Worship
+Characters with a religious bent might wish to spend their downtime in service to a temple. This activity has the chance of winning the favor of the temple’s leaders. 
+
 ### Requirements
+The character must have an honest will to serve or assist the temple. This requires levels in a faith based class or else a specific background reason for worship.
+
 ### Resources
+Religious service requires 5 downtime days and no gold cost.
+
 ### Resolution
+The character must make a Religion check using intelligence, wisdom, or charisma. The result of the check determines what favors they then receive from the temple or their god according to the table below. You may choose to take a lesser effect and may only have 1 favor of each type at a time. Some outcomes have 2 options, you may choose one of the two options provided.
+
+The Natural 1 and 20 results cancel each other out and death saving throws for your next quest are rolled regularly.
+
+Check Total |	Standard Outcome | Secondary Outcome
+----------- | ----------- | -----------
+Nat 1 |	Fated to die, you have aroused the ire of a rival god. For your next quest you have disadvantage on death saving throws | N/A
+1-5 | The Gods are slient. No effect. | N/A
+6-10 | You may ask the temple for assistance dealing with a problem or for political / social support | You recieve the effects of the Sanctuary Spell with a duration of 24 Hours
+11-15 | You receive DM inspiration (Unless you already have one) | You recieve the benefits from the Protection from Evil and Good Spell for 1 Hour
+16-20 | Blessing of Tongues, you have gained the honour of speaking your god's word. For the duration of your next quest your voice changes to be more like your gods and you are under the effect of the tongues spell.
+21+ | You may cast any cleric spell 1 time for 1 spell slot lower over the next 24 hours | You recieve the effects of the Aid spell cast at a spell level equal to your level divided by 4 (Minimum 2)
+Nat 20 | Fated to live, you have gained the favour of your god. For your next quest you have advantage on death saving throws | N/A
+
+# Credit
+While all of this was discussed by the staff of the Guild of the Fang. We have to give credit to Coville West March Server's Downtime Rules for the major bulk and foundation of this system.
+
+Of course nothing of this is endorsed or approved by WOTC and portions of the materials used in this document are property of WOTC. This is all unofficial fan content.
+
+# Change Log
