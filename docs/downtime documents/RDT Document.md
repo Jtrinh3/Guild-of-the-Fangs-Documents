@@ -16,6 +16,9 @@ Certain activities can grant you additional gold, skills, items, or information.
 ## Contract Work / Getting Help
 You may be able to enlist your fellow adventurers to assist you in certain downtime activities for an agreed upon price. Each activity will have a section labeled as "Help" to disclose who and how many individuals are able to assist you with your activity. Prices of services depend on the two parties involved and can change based on the nature of the work. Either party can contribute downtime days towards the completion of the work only if they meet the requirements listed for that activity.
 
+## Quests and Downtime
+Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity for 72 Hours.
+
 # Features, Spells, and Downtime
 What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable.
 
