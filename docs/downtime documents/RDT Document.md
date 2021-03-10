@@ -1,5 +1,5 @@
 # Accruing Downtime
-Your currently active character can begin collecting downtime after your character sheet is approved. After it is approved you earn 8 Downtime Hours (1 Downtime Day) for every real-time day that passes since your character was approved. Downtime can be used for a number of things outside of doing quests. Some of these depend on the proficiencies of your character.
+Your currently active character can begin collecting downtime after your character sheet is approved. After it is approved you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected. Downtime can be used for a number of things outside of doing quests. Some of these depend on the proficiencies of your character.
 # Using Downtime
 You can use downtime to perform a number of activities to benefit your character and others. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime.
 ## Requirements
