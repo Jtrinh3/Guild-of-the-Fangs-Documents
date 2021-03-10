@@ -1,17 +1,24 @@
 # Accruing Downtime
 Your currently active character can begin collecting downtime after your character sheet is approved. After it is approved you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected. Downtime can be used for a number of things outside of doing quests. Some of these depend on the proficiencies of your character.
+
 # Using Downtime
 You can use downtime to perform a number of activities to benefit your character and others. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime.
+
 ## Requirements
 Most downtime activities are only available to a character if they are proficient with the relevant tools or skills. If a downtime activity requires anything it will be listed in this section otherwise everyone may perform that downtime activity.
+
 ## Resources
 Firstly your character must have the necessary time and availability to do downtime activities. Characters are alloted 1 day of Downtime for every real/IRL day that passes. (8 Downtime Hours) Your character must have the hours and actual time to do Downtime Activities. Ex. Being on a Mission may prevent you from crafting something or learning a proficiency. There may also be an additional cost in the form of gold, materials, or additional downtime when performing a specific activity.
+
 ## Resolution
 Certain activities can grant you additional gold, skills, items, or information. When spending downtime on an activity you must follow the instructions given in this section for each day spent. The basic resolution is only available to you and cannot be given to other characters unless the resolution results in items or gold which follows the normal trade rules.
+
 ## Contract Work / Getting Help
 You may be able to enlist your fellow adventurers to assist you in certain downtime activities for an agreed upon price. Each activity will have a section labeled as "Help" to disclose who and how many individuals are able to assist you with your activity. Prices of services depend on the two parties involved and can change based on the nature of the work. Either party can contribute downtime days towards the completion of the work only if they meet the requirements listed for that activity.
+
 # Features, Spells, and Downtime
 What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable.
+
 Feature | Usable?
 ----------- | ----------- | 
 Bardic Inspiration (Bard) | No
@@ -57,6 +64,7 @@ Weaver’s tools |	Dex or Wis
 Woodcarver’s tools |	Dex or Wis
 
 # Background Features
+
 Background(s) |	Feature
 ----------- | ----------- |
 Acolyte | Shelter the Faithful - You have advantage on the resolution check for the Worship activity.
@@ -73,6 +81,7 @@ Haunted One | Heart of Darkness: When performing the Research activity regarding
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
 Knight of the Order , Marine , Mercenary Veteran , Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
 Urban Bounty Hunter | Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshiftier or bounty, you have advantage on the investigation check. You may use make an Charisma (Intimidation) check instead of a Intelligence (Investigation) when doing the research activity.
+
 # Crafting
 
 ## Alchemy and Potion Crafting
@@ -82,6 +91,7 @@ A character can practice alchemy in their downtime by crafting useful concoction
 Proficiency in Herbalism or Alchemist kits, which ever you use the Item must be within your inventory
 
 In order to brew a potion you must have taken an hour to examine the item or cast the spell Identify on it, in order to know how you can replicate it. Homebrew Items cannot be crafted unless otherwise stated 
+
 ### Resources
 You'll also need an amount of gold and downtime days depending on the rarity of the item.
 
@@ -99,6 +109,7 @@ Make a number of d20 checks equal to the total number of days needed. Add your p
 For each failed check the downtime and gold cost are increased by 1 day and 25 gp (you do not roll additional d20's for these days).
 
 If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid).
+
 ### Help
 You can help other players brew potions. The downtime and gold cost may be split in whatever way you wish.
 
@@ -128,10 +139,12 @@ Brewing is the art of producing beer with your downtime. Not only does beer serv
 
 ### Requirements
 Brewer's Supplies and proficiency in them.
+
 ### Resources
 To craft a beer requires 3 days of downtime which are spent over the course of a week checking and maintaining the process and finally sealing and storing it. You may spend the three days in any order however the crafting process is not finished until a week from the first dedicated day AND ONLY AFTER the third day of Downtime has been spent.
 
 You'll also need to purchase an amount of materials for the brew equal to half the selling cost.
+
 ### Resolution
 First choose a type of brew you'd like to make from the list of beers. Then make a Intelligence or Wisdom (Brewer's Tools) check against the difficulty check. If you fail the DC the beer becomes a Dud Brew. You can either keep the batch or sell it for the listed amount (half that amount if you used some already).
 
@@ -351,7 +364,7 @@ Nat 1 |	Fated to die, you have aroused the ire of a rival god. For your next que
 6-10 | You may ask the temple for assistance dealing with a problem or for political / social support | You recieve the effects of the Sanctuary Spell with a duration of 24 Hours
 11-15 | You receive DM inspiration (Unless you already have one) | You recieve the benefits from the Protection from Evil and Good Spell for 1 Hour
 16-20 | Blessing of Tongues, you have gained the honour of speaking your god's word. For the duration of your next quest your voice changes to be more like your gods and you are under the effect of the tongues spell.
-21+ | You may cast any cleric spell 1 time for 1 spell slot lower over the next 24 hours | You recieve the effects of the Aid spell cast at a spell level equal to your level divided by 4 (Minimum 2)
+21+ | Over the next 24 hour, you may cast any cleric spell once as if you have it prepared and the spell slot consumed is 1 level lower than its usual cost (minimum of 1). | You recieve the effects of the Aid spell cast at a spell level equal to your level divided by 4 (Minimum 2)
 Nat 20 | Fated to live, you have gained the favour of your god. For your next quest you have advantage on death saving throws | N/A
 
 # Credit
