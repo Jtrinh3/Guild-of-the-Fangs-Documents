@@ -24,7 +24,7 @@ What bonuses can you use on the ability checks? In general only features that co
 
 Feature | Usable?
 ----------- | ----------- | 
-Bardic Inspiration (Bard) | No
+Bardic Inspiration (Bard) | Yes
 Silver Tongue (Eloquence Bard) | No
 Peerless skill (Lore Bard) | Yes
 Reliable Talent (Rouge) | Yes
@@ -72,14 +72,14 @@ Woodcarver’s tools |	Dex or Wis
 Background(s) |	Feature
 ----------- | ----------- |
 Acolyte | Shelter the Faithful - You have advantage on the resolution check for the Worship activity.
-Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture or tradition, you have advantage on the investigation check. You may reduce the gold cost of Tool and Skill Training when learning a language by 25% (rounded down).
+Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture or tradition, you have advantage on the investigation check. You may reduce the downtime cost of Tool and Skill Training when learning a language to a total of 21 Days (Instead of 30).
 Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon or relic, you have advantage on the investigation check.
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organisation, you have advantage on the investigation check.
-Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same. Gold costs for Brewing activity are halved.
+Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same..
 Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
 Entertainer, Grinner | For the Work activity, you may divide by 2 instead of 3 for the resolution. If able to, you may roll with advantage for the Worship activity.
 Fisher, Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
-Folk Hero , Inheritor | Rustic Hospitality - For the Work activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 20% less gold for you.
+Folk Hero , Inheritor | Rustic Hospitality - For the Work activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
 Guild Artisan | Guild Membership - For any downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
 Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
