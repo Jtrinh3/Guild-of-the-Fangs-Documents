@@ -25,6 +25,7 @@ What bonuses can you use on the ability checks? In general only features that co
 Feature | Usable?
 ----------- | ----------- | 
 Bardic Inspiration (Bard) | No
+Silver Tongue (Eloquence Bard) | No
 Peerless skill (Lore Bard) | Yes
 Reliable Talent (Rouge) | Yes
 Guidance (Spell) | No
