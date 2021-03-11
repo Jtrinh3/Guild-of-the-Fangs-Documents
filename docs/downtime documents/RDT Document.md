@@ -103,11 +103,11 @@ You'll also need an amount of gold and downtime days depending on the rarity of 
 
 Rarity |	Days | Base Cost | Minimum Level | DC
 ----------- | ----------- | ----------- | ----------- | ----------- |
-Common | 2 | 50 gp | 3 | DC 12
-Uncommon | 10 | 250 gp | 3 | DC 14
-Rare | 25 | 2,500 gp | 6 | DC 16
-Very Rare | 50 | 25,000 gp | 11 | DC 18
-Legendary | 100 | 250,000 gp | 17 | DC 20
+Common | 2 | 50 gp | 3 | 12
+Uncommon | 10 | 250 gp | 3 | 14
+Rare | 25 | 2,500 gp | 6 | 16
+Very Rare | 50 | 25,000 gp | 11 | 18
+Legendary | 100 | 250,000 gp | 17 | 20
 
 ### Resolution
 Make a number of d20 checks equal to the total number of days needed. Add your proficiency to each roll and calculate how many fail the DC. If you have expertise in the relevant tool set, you may add your proficiency bonus twice to each roll and calculate how many fail the DC.
@@ -256,7 +256,7 @@ Make a number of d20 checks equal to the total number of days needed. Add your p
 If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid). 
 
 ### Help
-You can help other players craft a poison. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players, the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
+You can help other players craft a poison. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players (Maximum Total of 4) , the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
 
 # Intensive Training
 Downtime can be spent hard at work training with others to reach higher levels of power.
@@ -264,7 +264,7 @@ Downtime can be spent hard at work training with others to reach higher levels o
 You must have a contracted training partner who matches your spent downtime. (They spend the same amount of downtime as the trainee) The Trainer can only train a character that is lower in level to them up to a max of the the trainer's level.
 
 ### Resources
-100 gp per day spent training.
+50 gp per day spent training.
 
 ### Resolution
 You gain 100 xp per day of training.
@@ -324,9 +324,9 @@ Downtime can be spent putting in the time to learn a new language, trade, or ski
 You may only learn skill proficiencies in skills that pertain to the starting skills of a class you have at least 3 levels in. Otherwise you are free to choose.
 
 ### Resources
-Learning a skill, language, or tool proficiency costs 30 days of downtime and 1,000 gp.
+Learning a skill, language, or tool proficiency costs 30 days of downtime and 500 gp.
 
-If gaining expertise you must have not gained expertise through this activity before and must spend an additional 15 days and 500 gold.
+If gaining expertise you must have not gained expertise through this activity before and must spend an additional 30 days and 1000 gold.
 
 ### Resolution
 You become proficient in the skill, language, or tool that you chose.
@@ -357,7 +357,7 @@ The character must have an honest will to serve or assist the temple. This requi
 Religious service requires 5 downtime days and no gold cost.
 
 ### Resolution
-The character must make a Religion check using intelligence, wisdom, or charisma. The result of the check determines what favors they then receive from the temple or their god according to the table below. You may choose to take a lesser effect and may only have 1 favor of each type at a time. Some outcomes have 2 options, you may choose one of the two options provided.
+The character must make a Religion check using intelligence, wisdom, or charisma. The result of the check determines what favors they then receive from the temple or their god according to the table below. Some outcomes have 2 options, you may choose one of the two options provided.
 
 The Natural 1 and 20 results cancel each other out and death saving throws for your next quest are rolled regularly.
 
@@ -367,7 +367,7 @@ Nat 1 |	Fated to die, you have aroused the ire of a rival god. For your next que
 1-5 | The Gods are slient. No effect. | N/A
 6-10 | You may ask the temple for assistance dealing with a problem or for political / social support | You recieve the effects of the Sanctuary Spell with a duration of 24 Hours
 11-15 | You receive DM inspiration (Unless you already have one) | You recieve the benefits from the Protection from Evil and Good Spell for 1 Hour
-16-20 | Blessing of Tongues, you have gained the honour of speaking your god's word. For the duration of your next quest your voice changes to be more like your gods and you are under the effect of the tongues spell.
+16-20 | Blessing of Tongues, you have gained the honour of speaking your god's word. For the duration of your next quest your voice changes to be more like your gods and you are under the effect of the tongues spell. | +1d4 to hit 1 time after you roll but BEFORE the result on your next mission.
 21+ | Over the next 24 hour, you may cast any cleric spell once as if you have it prepared and the spell slot consumed is 1 level lower than its usual cost (minimum of 1). | You recieve the effects of the Aid spell cast at a spell level equal to your level divided by 4 (Minimum 2)
 Nat 20 | Fated to live, you have gained the favour of your god. For your next quest you have advantage on death saving throws | N/A
 
