@@ -91,7 +91,7 @@ Urban Bounty Hunter | Ear to the Ground - When performing the Research activity 
 # Crafting
 
 ## Alchemy and Potion Crafting
-A character can practice alchemy in their downtime by crafting useful concoctions such as potions, acid, or alchemist's fire.
+A character can practice alchemy in their downtime by crafting useful concoctions such as potions, acid, or alchemist's fire. This does NOT include Health Potions. See Next Section "Health Potion Crafting"
 
 ### Requirements
 Proficiency in Herbalism or Alchemist kits, which ever you use the Item must be within your inventory
@@ -120,6 +120,27 @@ If you do not have enough downtime or gold to cover the increased cost you may p
 You can help other players brew potions. The downtime and gold cost may be split in whatever way you wish.
 
 If the downtime is split evenly between all players (Maximum Total of 4), the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
+
+## Health Potion Crafting
+
+### Requirements
+Proficiency in Herbalism kits, This Kit must be within your inventory
+
+### Resources
+You'll also need an amount of gold and downtime days depending on the type of potion.
+
+Type |	Days | Cost |
+----------- | ----------- | ----------- |
+Healing | 1 | 25 gp
+Greater Healing | 5 | 100 gp
+Superior Healing | 15 | 1,000 gp
+Supreme Healing | 20 | 10,000 gp
+
+### Resolution
+You create the Healing Potion and add it into your inventory at the end, when both the downtime and gold cost has been paid.
+
+### Help
+You can help other players brew potions. (4 Maximum Total) The downtime and gold cost may be split in whatever way you wish.
 
 ## Blacksmithing
 Smithing lets you use your downtime to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
