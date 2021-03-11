@@ -151,7 +151,7 @@ Smith’s Tools and proficiency in them.
 In order to craft a copy of an item you must have seen and examined the item beforehand.
 
 ### Resources
-Raw materials worth half of the item (or items) selling cost and a number of downtime days equal to its gold cost divided by: your Smith's tools modifier or 5, whichever is larger. Broken items of the same or similar type can also be used as resources to repair or alter items.
+Raw materials worth half of the item (or items) Full Price and a number of downtime days equal to its gold cost divided by: your Smith's tools modifier or 5, whichever is larger. Broken items of the same or similar type can also be used as resources to repair or alter items.
 
 You may also upgrade a mundane non-magical weapon to Masterwork quality giving +1 to attack rolls made with that weapon. Doing so has a cost of 300 gp and a 5 downtime days. This cannot be done on a weapon that has already undergone this process and does NOT count as a magical weapon.
 
@@ -214,7 +214,7 @@ You must be familiar with the item you wish to craft either by having studied on
 In order to craft a consumable you must have taken an hour to examine the item or cast the spell Identify on it, in order to know how you can replicate it. Homebrew Items cannot be crafted unless otherwise stated
 
 ### Resources
-Raw materials worth half of the item (or items) selling cost and a number of downtime days equal to its gold cost divided by: your tool modifier , whichever is larger.
+Raw materials worth half of the item (or items) Full Price and a number of downtime days equal to its gold cost divided by: your tool modifier , whichever is larger.
 
 If the item you wish to craft does not have a price listed in the PHB or in the server's store document you may refer to the table below to find the price. Consumables are half the listed cost.
 
@@ -322,21 +322,50 @@ The DM of the quest has final say on what this information is revealed through t
 # Spell Copying (Wizards and Ritual Casters)
 Aspiring Wizards and Ritual Casters tend to commit their time to the transcribing and practice of new spells to their spell books. When spending downtime to do this you put in the time to both translate and record the spell as well as practice it a few times for when you need to use it.
 
+When you find a Wizard spell of 1st level or higher, you can add it to your Spellbook if it is of a Spell Level you can prepare and if you can spare the time to decipher and copy it.
+
+Copying that spell into your Spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the Wizard who wrote it. You must practice the spell until you understand the Sounds or gestures required, then transcribe it into your Spellbook using your own notation.
+
 ### Requirements
 You need the Wizard Spellcasting feature, the Ritual Caster feat, or the Book of Ancient Secrets Warlock invocation. The spells you copy must follow the requirements of that feature.
 
 You also need a spell book or scroll containing the spell(s) you wish to copy.
 ### Resources
-You can copy a number of spell levels up to your proficiency bonus + 3 per day (e.g. At level 5 you could copy 2 3rd levels spells or 6 1st level spells).
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents Material Components you expend as you experiment with the spell to Master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other Spells.
 
-The total downtime cost required is the spell level total of all spells to be copied divided by your proficiency bonus plus 3 (rounded up).
-
-The total gold cost is the same as the PHB. The spell level total of all spells to be copied times 50 gold.
+Spell Level |	Downtime | Cost |
+----------- | ----------- | -----------
+1st | 2 Hours | 50 gp
+2nd | 4 Hours | 100 gp
+3rd | 6 Hours | 150 gp
+4th | 1 Day | 200 gp
+5th | 1 Day, 2 Hours | 250 gp
+6th | 1 Day, 4 Hours | 300 gp
+7th | 1 Day, 6 Hours | 350 gp
+8th | 2 Days | 400 gp
+9th | 2 Days, 2 Hours | 450 gp
 
 ### Resolution
 The spells are copied into your spell book.
 
-If any of the spells were copied from a scroll you must beat an Arcana check to successfully copy it. The DC is 10 + the Spell Level of the scroll. If you fail the check you do not copy the spell (the downtime and gold is still consumed).
+### Spell Book Deplication
+You can copy a spell from your own Spellbook into another book—for example, if you want to make a backup copy of your Spellbook. This is just like copying a new spell into your Spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell.
+
+You need spend only 1 hour and 10 gp for each level of the copied spell.
+
+Spell Level |	Downtime | Cost |
+----------- | ----------- | -----------
+1st | 1 Hour | 10 gp
+2nd | 2 Hours | 20 gp
+3rd | 3 Hours | 30 gp
+4th | 4 Hours | 40 gp
+5th | 5 Hours | 50 gp
+6th | 6 Hours | 60 gp
+7th | 7 Hours | 70 gp
+8th | 1 Day | 80 gp
+9th | 1 Day, 1 Hour | 90 gp
+
+If you lose your Spellbook, you can use the same procedure to transcribe the Spells that you have prepared into a new Spellbook. Filling out the remainder of your Spellbook requires you to find New Spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
 # Learning Tools and Skills
 Downtime can be spent putting in the time to learn a new language, trade, or skill that you are partial to or think you'll need later. You may even fine tune your skills to an even more skilled state.
