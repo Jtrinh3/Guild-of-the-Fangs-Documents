@@ -16,6 +16,8 @@ Certain activities can grant you additional gold, skills, items, or information.
 ## Contract Work / Getting Help
 You may be able to enlist your fellow adventurers to assist you in certain downtime activities for an agreed upon price. Each activity will have a section labeled as "Help" to disclose who and how many individuals are able to assist you with your activity. Prices of services depend on the two parties involved and can change based on the nature of the work. Either party can contribute downtime days towards the completion of the work only if they meet the requirements listed for that activity.
 
+Helping with a downtime activity requires you to also meet the requirements for the activity. Helping will act as if you are are doing a day of the work yourself, so any DC rolls will need to be made by the helper and the original worker. Any failures will add to the gold cost and downtime. However if the team's collective bonus/mods for the roll would beat the DC on a roll, no one of the team is required to roll against the activities DC.
+
 ## Quests and Downtime
 Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity for 24 Hours after mission compleation.
 
@@ -99,16 +101,16 @@ In order to brew a potion you must have taken an hour to examine the item or cas
 ### Resources
 You'll also need an amount of gold and downtime days depending on the rarity of the item.
 
-Rarity |	Days | Base Cost | Minimum Level |
------------ | ----------- | ----------- | ----------- |
-Common | 2 | 50 gp | 3 
-Uncommon | 10 | 250 gp | 3
-Rare | 25 | 2,500 gp | 6
-Very Rare | 50 | 25,000 gp | 11
-Legendary | 100 | 250,000 gp | 17
+Rarity |	Days | Base Cost | Minimum Level | DC
+----------- | ----------- | ----------- | ----------- | ----------- |
+Common | 2 | 50 gp | 3 | DC 12
+Uncommon | 10 | 250 gp | 3 | DC 14
+Rare | 25 | 2,500 gp | 6 | DC 16
+Very Rare | 50 | 25,000 gp | 11 | DC 18
+Legendary | 100 | 250,000 gp | 17 | DC 20
 
 ### Resolution
-Make a number of d20 checks equal to the total number of days needed. Add your proficiency to each roll and calculate how many fail a DC16. If you have expertise in the relevant tool set, you may add your proficiency bonus twice to each roll and calculate how many fail a DC16.
+Make a number of d20 checks equal to the total number of days needed. Add your proficiency to each roll and calculate how many fail the DC. If you have expertise in the relevant tool set, you may add your proficiency bonus twice to each roll and calculate how many fail the DC.
 
 For each failed check the downtime and gold cost are increased by 1 day and 25 gp (you do not roll additional d20's for these days).
 
@@ -117,7 +119,7 @@ If you do not have enough downtime or gold to cover the increased cost you may p
 ### Help
 You can help other players brew potions. The downtime and gold cost may be split in whatever way you wish.
 
-If the downtime is split evenly between all players, the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
+If the downtime is split evenly between all players (Maximum Total of 4), the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
 
 ## Blacksmithing
 Smithing lets you use your downtime to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
@@ -130,7 +132,7 @@ In order to craft a copy of an item you must have seen and examined the item bef
 ### Resources
 Raw materials worth half of the item (or items) selling cost and a number of downtime days equal to its gold cost divided by: your Smith's tools modifier or 5, whichever is larger. Broken items of the same or similar type can also be used as resources to repair or alter items.
 
-You may also upgrade a mundane non-magical weapon to Masterwork quality giving +1 to attack rolls made with that weapon. Doing so has a cost of 300 gp and a 5 downtime days.
+You may also upgrade a mundane non-magical weapon to Masterwork quality giving +1 to attack rolls made with that weapon. Doing so has a cost of 300 gp and a 5 downtime days. This cannot be done on a weapon that has already undergone this process and does NOT count as a magical weapon.
 
 ### Resolution
 The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
@@ -231,8 +233,6 @@ Cantrip | 1 Day | 15 gp
 
 ### Resolution
 You create a scroll of the desired spell.
-
-### Help
 
 ## Magic Item Crafting
 ### Requirements
