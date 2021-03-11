@@ -244,7 +244,7 @@ You must have a number of downtime and gp according to the spell level you wish 
 Time |	Spell Level | Cost
 ----------- | ----------- | -----------
 Cantrip | 1 Day | 15 gp
-1st | 2 Days | 75 gp
+1st | 1 Day | 25 gp
 2nd | 3 Days | 250 gp
 3rd | 5 Days | 500 gp
 4th | 10 Days | 2,500 gp
