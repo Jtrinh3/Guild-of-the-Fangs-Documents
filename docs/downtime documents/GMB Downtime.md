@@ -112,7 +112,7 @@ Woodcarver’s tools |	Dex or Wis
 Background(s) |	Feature
 ----------- | ----------- |
 Acolyte | Shelter the Faithful - You have advantage on the resolution check for the Worship activity.
-Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture or tradition, you have advantage on the investigation check. You may reduce the downtime cost of Tool and Skill Training when learning a language to a total of 21 Days (Instead of 30).
+Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture or tradition, you have advantage on the investigation check. In addition, your downtime cost total for learning additional languages is 21 days each (instead of 30).
 Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon or relic, you have advantage on the investigation check.
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organization, you have advantage on the investigation check.
 Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same..
