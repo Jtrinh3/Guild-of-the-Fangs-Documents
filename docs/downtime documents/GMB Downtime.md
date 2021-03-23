@@ -19,17 +19,17 @@
 </div>
 
 ## Accruing Downtime
-Your active character can begin spending downtime after your character sheet is approved. After approval, you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected; use it that day or lose it! Downtime can be used for a number of things while you are not on quests. Your character's skill and tool proficiencies decide what type of activity they may partake in.
+Your active character can begin spending downtime after your character sheet is approved. After approval, you earn 8 Downtime Hours (1 Downtime Day) every real-time day, starting at 12 AM Central Time, that you can use each day. However these are not able to be held onto or collected; use it that day or lose it! Downtime can be used for a number of things while you are not on quests. Your character's skill and tool proficiencies decide what type of activity they may partake in.
 
 ## Using Downtime
-You can use downtime to perform a number of activities to benefit your player character and other's player characters. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime. Regardless, you can only 'preload' or dedicate up to 7 days maximum downtime at a time.
+You can use downtime to perform a number of activities to benefit your player character and other's player characters. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime. Regardless, you can only 'preload' or dedicate up to 7 days maximum downtime at a time. If you go on a mission or don't have access to the requirements, tools, facilities needed, your progress will be paused.
 
 To log the usage of downtime head over to **#downtime-log** and add a post showing how much Downtime is being used, and how much would remain on the project after usage, if any. In the case of multiple posts being needed for the work, just reply to your last relevant post about the certain activity. 
 
-For example crafting a Superior Healing Potion you would go to **#downtime-log** and put *5 DT > Superior Healing Potion [5/15]* to preload 5 days of crafting the potion or *1 DT > Superior Healing Potion [1/15]*, in both cases each subsequent post about crafting that potion should be a reply to the one prior
+For example crafting a Superior Healing Potion you would go to **#downtime-log** and put *5 DT > Superior Healing Potion [5/15]* to preload 5 days of crafting the potion or *1 DT > Superior Healing Potion [1/15]*, in both cases each subsequent post about crafting that potion should be a reply to the one prior. All downtime activities that require rolls should have a link to said rolls, taking place in a server channel, in the log post.
 
 ## Quests and Downtime
-Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity for 24 Hours after mission completion.
+Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity on the day the mission began.
 
 \columnbreak
 
