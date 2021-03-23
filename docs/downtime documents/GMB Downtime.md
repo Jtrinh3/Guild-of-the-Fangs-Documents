@@ -70,7 +70,7 @@ Fire Rune (Rune Knight Fighter) | Counts as expertise.
 <div class='wide'>
 
 ## Tool Checks
-If an activity calls for a tool check or for your tool modifier you may have a choice of which ability to use, depending on the tool. Consult the table below for which ability checks you may use.
+If an activity calls for a tool check or for your tool modifier you may have a choice of which ability to use, depending on the tool. Consult the table below for which ability checks you may use. To calculate your tool modifier, add an ability bonus associated with your tool to the proficiency bonus for the tool.
 
 Tool |	Available Abilities
 ----------- | ----------- | 
