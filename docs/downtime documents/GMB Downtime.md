@@ -189,8 +189,6 @@ In order to craft a copy of an item you must have seen and examined the item bef
 ### Resources
 Raw materials worth half of the item (or items) Full Price and a number of downtime days equal to its gold cost divided by: your Smith's tools modifier or 5, whichever is larger. Broken items of the same or similar type can also be used as resources to repair or alter items.
 
-You may also upgrade a mundane non-magical weapon to Masterwork quality giving +1 to attack rolls made with that weapon. Doing so has a cost of 300 gp and a 5 downtime days. This cannot be done on a weapon that has already undergone this process and does NOT count as a magical weapon.
-
 ### Resolution
 The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
 
