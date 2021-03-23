@@ -120,7 +120,7 @@ Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Rese
 Entertainer, Grinner | For the Day Job activity, you may divide by 2 instead of 3 for the resolution. If able to, you may roll with advantage for the Worship activity.
 Fisher, Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
 Folk Hero , Inheritor | Rustic Hospitality - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
-Guild Artisan | Guild Membership - For any downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
+Guild Artisan | Guild Membership - For any crafting downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
 Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
 Knight of the Order , Marine , Mercenary Veteran , Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
@@ -237,7 +237,7 @@ You must be familiar with the item you wish to craft either by having studied on
 In order to craft a consumable you must have taken an hour to examine the item or cast the spell Identify on it, in order to know how you can replicate it. Homebrew Items cannot be crafted unless otherwise stated
 
 ### Resources
-Raw materials worth half of the item (or items) Full Price and a number of downtime days equal to its gold cost divided by: your tool modifier , whichever is larger.
+Raw materials worth half of the item (or items) Full Price and a number of downtime days equal to its gold cost divided by: your tools modifier or 5, whichever is larger.
 
 If the item you wish to craft does not have a price listed in the PHB or in the server's store document you may refer to the table below to find the price. Consumables are half the listed cost.
 
