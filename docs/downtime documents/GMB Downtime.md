@@ -13,7 +13,7 @@
 <div class='wide' style="text-align: center">
 
 ###
-# Guild of the Fang Downtime Rules
+# How the Downtime System Works
 ###
 
 </div>
