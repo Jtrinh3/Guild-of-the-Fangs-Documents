@@ -24,9 +24,9 @@ Your active character can begin spending downtime after your character sheet is 
 ## Using Downtime
 You can use downtime to perform a number of activities to benefit your player character and other's player characters. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime. Regardless, you can only 'preload' or dedicate up to 7 days maximum downtime at a time.
 
-To log the usage of downtime head over to **#downtime-log** and add a post showing how much Downtime is being used, and how much would remain on the project after usage if any. In the case of multiple posts being needed for the work, just reply to your last relevant post about the certain activity. 
+To log the usage of downtime head over to **#downtime-log** and add a post showing how much Downtime is being used, and how much would remain on the project after usage, if any. In the case of multiple posts being needed for the work, just reply to your last relevant post about the certain activity. 
 
-For example crafting a Superior Healing Potion you would go to **#downtime-log** and put *5 DT > Superior Healing Potion [5/15]* to preload 5 days of crafting the potion or *1 DT > Superior Healing Potion [1/15]*, in both cases each subesquent post about crafting that potion should be a reply to the one prior
+For example crafting a Superior Healing Potion you would go to **#downtime-log** and put *5 DT > Superior Healing Potion [5/15]* to preload 5 days of crafting the potion or *1 DT > Superior Healing Potion [1/15]*, in both cases each subsequent post about crafting that potion should be a reply to the one prior
 
 ## Quests and Downtime
 Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity for 24 Hours after mission completion.
