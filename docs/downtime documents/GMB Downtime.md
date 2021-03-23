@@ -120,9 +120,7 @@ Archaeologist | Historical Knowledge - When performing the Research activity reg
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organization, you have advantage on the investigation check.
 Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same..
 Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
-Entertainer, Grinner | For the Day Job activity, you may divide by 2 instead of 3 for the resolution.
-Fisher, Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
-Folk Hero, Inheritor | Rustic Hospitality - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
+Entertainer, Grinner, Fisher, Outlander, Folk Hero, Inheritor | Hard Worker - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
 Guild Artisan | Guild Membership - For any crafting downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
 Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
