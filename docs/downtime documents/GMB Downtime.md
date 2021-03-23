@@ -61,7 +61,7 @@ Feature | Usable?
 Bardic Inspiration (Bard) | No
 Silver Tongue (Eloquence Bard) | Yes
 Peerless skill (Lore Bard) | Yes
-Reliable Talent (Rouge) | Yes
+Reliable Talent (Rogue) | Yes
 Guidance (Spell) | No
 Enhance Ability (Spell) | No
 Help Action | No
