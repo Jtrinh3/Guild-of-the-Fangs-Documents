@@ -1,5 +1,8 @@
 <style>
     .phb#p1:after {display:none;}
+    .phb:after {
+        content: '';
+    }
 </style>
 
 
@@ -119,11 +122,11 @@ Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the
 Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
 Entertainer, Grinner | For the Day Job activity, you may divide by 2 instead of 3 for the resolution.
 Fisher, Outlander | Harvest the Water - You have advantage on the intelligence or wisdom check to cook with the Cooking activity.
-Folk Hero , Inheritor | Rustic Hospitality - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
+Folk Hero, Inheritor | Rustic Hospitality - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
 Guild Artisan | Guild Membership - For any crafting downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
 Haunted One | Heart of Darkness: When performing the Research activity regarding an Aberration, Monstrosity, Curses or Undead you have advantage on the investigation check.
 Hermit | Discovery: When performing the Research activity regarding the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature, you have advantage on the investigation check. You may use make an Wisdom (Insight) check instead of a Intelligence (Investigation) when doing the Research activity.
-Knight of the Order , Marine , Mercenary Veteran , Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
+Knight of the Order, Marine, Mercenary Veteran, Soldier | Military Rank - You gain 100 experience per day spent performing the Intensive Training activity as contract work.
 Urban Bounty Hunter | Ear to the Ground - When performing the Research activity regarding a humanoid creature, shapeshifter or bounty, you have advantage on the investigation check. You may choose to make a Charisma (Intimidation) check in place of an Intelligence (Investigation) when doing the research activity.
 
 </div>
@@ -272,7 +275,7 @@ Make a number of d20 checks equal to the total number of days needed. Add your p
 If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid). 
 
 ### Help
-You can help other players craft a poison. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players (Maximum Total of 4) , the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
+You can help other players craft a poison. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players (Maximum Total of 4), the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
 
 
 \columnbreak
