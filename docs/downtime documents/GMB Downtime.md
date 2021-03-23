@@ -19,10 +19,10 @@
 </div>
 
 ## Accruing Downtime
-Your active character can begin collecting downtime after your character sheet is approved. After approval, you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected, use it that day or lose it! Downtime can be used for a number of things while you are not on quests. Your character's skill and tool proficiencies decide what type of activity they may partake in.
+Your active character can begin spending downtime after your character sheet is approved. After approval, you earn 8 Downtime Hours (1 Downtime Day) every real-time day that you can use each day. However these are not able to be held onto or collected; use it that day or lose it! Downtime can be used for a number of things while you are not on quests. Your character's skill and tool proficiencies decide what type of activity they may partake in.
 
 ## Using Downtime
-You can use downtime to perform a number of activities to benefit your character and others. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime. Regardless, you can only 'preload' or dedicate up to 7 days maximum downtime at a time.
+You can use downtime to perform a number of activities to benefit your player character and other's player characters. In order to perform these downtime activities you need to adhere to the rules related to that activity. Below is a description of each activity rule and how to handle it when spending your downtime. Regardless, you can only 'preload' or dedicate up to 7 days maximum downtime at a time.
 
 ## Quests and Downtime
 Quests and Missions are your main duties and source of income. So to reflect that, whenever you start a mission you are prohibited from pursuing any downtime activity for 24 Hours after mission completion.
@@ -63,6 +63,7 @@ Enhance Ability (Spell) | No
 Help Action | No
 Rage (Barbarian) | No
 Portent (Divination Wizard) | No
+Lucky (Feat) | No
 Artisan's Blessing (Forge Cleric) | Using this ability for any relevant activity allows you to remove the downtime cost for a recipe that costs 100 gp or less
 Fabricate (Spell) | Using this spell for any relevant activity allows you to cut the downtime cost in half (rounded down)
 Fire Rune (Rune Knight Fighter) | Counts as expertise.
@@ -115,10 +116,10 @@ Woodcarver’s tools |	Dex or Wis
 Background(s) |	Feature
 ----------- | ----------- |
 Acolyte | Shelter the Faithful - You have advantage on the resolution check for the Worship activity.
-Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture or tradition, you have advantage on the investigation check. In addition, your downtime cost total for learning additional languages is 21 days each (instead of 30).
-Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon or relic, you have advantage on the investigation check.
+Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture, or tradition, you have advantage on the investigation check. In addition, your downtime cost total for learning additional languages is 21 days each (instead of 30).
+Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon, or relic, you have advantage on the investigation check.
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organization, you have advantage on the investigation check.
-Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same..
+Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same.
 Cloistered Scholar, Cobalt Scholar, Sage | Researcher - When performing the Research activity regarding other planes, magic or astronomy, you have advantage on the investigation check. Any gold costs for Research activity are halved.
 Entertainer, Grinner, Fisher, Outlander, Folk Hero, Inheritor | Hard Worker - For the Day Job activity, you may divide by 2 instead of 3 for the resolution. Tool and Skill Training only costs 21 days of downtime (Instead of 30) for you.
 Guild Artisan | Guild Membership - For any crafting downtime activity that lists your artisan tools as a requirement, you may reduce the final downtime cost by 20% (rounded down). The gold cost remains unchanged.
@@ -318,7 +319,7 @@ While not common especially for active adventurers, some adventurers enjoy a sim
 Must speak Common.
 
 ### Resources
-You must spend 5 downtime days (40 hours) to perform this activity and can only do this activity two times per calendar month.
+You must spend 5 downtime days (40 hours) to perform this activity and can only do this activity two times per calendar month (your last day working will determine the month that job falls in).
 
 ### Resolution
 Choose up to 3 of your skills that you are proficient in and make a skill or tool check for each one. Add the totals together, divide by 3 and round down.
@@ -459,7 +460,7 @@ The character must have an honest will to serve or assist the temple. This requi
 Religious service requires 5 downtime days and no gold cost.
 
 ### Resolution
-The character must make a Religion check using intelligence, wisdom, or charisma. The result of the check determines what favors they then receive from the temple or their god according to the table below. Some outcomes have 2 options, you may choose one of the two options provided.
+The character must make a Religion check using intelligence, wisdom, or charisma. The result of the check determines what favors they then receive from the temple or their god according to the table below. Some outcomes have 2 options, you may choose one of the two options provided. You can only benefit from one outcome at a time but may choose which one to keep if you currently are under the effect of one and would recieve another.
 
 The Natural 1 and 20 results cancel each other out and death saving throws for your next quest are rolled regularly.
 
@@ -467,7 +468,7 @@ Check Total |	Standard Outcome | Secondary Outcome
 ----------- | ----------- | -----------
 Nat 1 |	Fated to die, you have aroused the ire of a rival god. For your next quest you have disadvantage on death saving throws | N/A
 1-5 | The Gods are silent. No effect. | N/A
-6-10 | You may ask the temple for assistance dealing with a problem or for political / social support | You receive the effects of the Sanctuary Spell with a duration of 24 Hours
+6-10 | You may ask the temple for assistance dealing with a problem or for political / social support | You receive the effects of the spell Sanctuary with a duration of 24 hours.
 11-15 | You receive DM inspiration (Unless you already have one) | You receive the benefits from the Protection from Evil and Good Spell for 1 Hour
 16-20 | Blessing of Tongues, you have gained the honor of speaking your god's word. For the duration of your next quest your voice changes to be more like your gods and you are under the effect of the tongues spell. | +1d4 to hit 1 time after you roll but BEFORE the result on your next mission.
 21+ | Over the next 24 hour, you may cast any cleric spell once as if you have it prepared and the spell slot consumed is 1 level lower than its usual cost (minimum of 1). | You receive the effects of the Aid spell cast at a spell level equal to your level divided by 4 (Minimum 2)
