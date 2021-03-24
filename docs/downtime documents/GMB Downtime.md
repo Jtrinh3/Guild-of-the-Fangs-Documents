@@ -60,7 +60,7 @@ Feature | Usable?
 ----------- | ----------- | 
 Bardic Inspiration (Bard) | No
 Silver Tongue (Eloquence Bard) | Yes
-Peerless skill (Lore Bard) | Yes
+Peerless Skill (Lore Bard) | Yes
 Reliable Talent (Rogue) | Yes
 Guidance (Spell) | No
 Enhance Ability (Spell) | No
@@ -120,7 +120,7 @@ Woodcarver’s tools |	Dex or Wis
 Background(s) |	Feature
 ----------- | ----------- |
 Acolyte | Shelter the Faithful - You have advantage on the resolution check for the Worship activity.
-Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture, or tradition, you have advantage on the investigation check. In addition, your downtime cost total for learning additional languages is 21 days each (instead of 30).
+Anthropologist | Adept Linguist - When performing the Research activity regarding a language, culture, or tradition, you have advantage on the investigation check. In addition, your downtime cost total for learning each additional languages is 21 days (instead of 30).
 Archaeologist | Historical Knowledge - When performing the Research activity regarding a ruin, dungeon, or relic, you have advantage on the investigation check.
 City Watch | Watcher's Eye - When performing the Research activity regarding a humanoid creature, criminal activity or criminal organization, you have advantage on the investigation check.
 Clan Crafter | Respect of the Stout Folk - You may reduce downtime costs for the Blacksmithing activity by 25%, rounded down. The gold cost remains the same.
@@ -175,9 +175,9 @@ For each failed check the downtime and gold cost are increased by 1 day and 25 g
 If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid).
 
 ### Help
-You can help other players brew potions. The downtime and gold cost may be split in whatever way you wish.
+You can help other players brew potions though only a maximum of 4 players can contribute to the potions progress. The downtime and gold cost may be split in whatever way you wish.
 
-If the downtime is split evenly between all players (Maximum Total of 4), the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
+If the downtime is split evenly between all players, the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number. If a person has expertise in relevant tool, you may add their proficiency bonus twice.
 
 
 \columnbreak
@@ -199,7 +199,7 @@ Raw materials worth half of the item (or items) Full Price and a number of downt
 The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
 
 ### Help
-A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item (2 Players Involved Max). Both characters must meet the Requirements and can split the downtime and gp costs as desired.
+A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item though only two person can contribute to a project at once. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 
 \pagebreakNum
@@ -223,7 +223,7 @@ Supreme Healing | 20 | 10,000 gp
 You create the Healing Potion and add it into your inventory at the end, when both the downtime and gold cost has been paid.
 
 ### Help
-You can help other players brew potions. (4 Maximum Total) The downtime and gold cost may be split in whatever way you wish.
+You can help other players brew health potions though only four people may contribute to the progress of one in a single day. The downtime and gold cost may be split in whatever way you wish.
 
 
 
@@ -257,7 +257,7 @@ Legendary | 500,000 gp
 The character successfully crafts the non-magical and can add it to their inventory or sell it for the full listed cost. 
 
 ### Help
-A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item (2 Players Involved Max). Both characters must meet the Requirements and can split the downtime and gp costs as desired.
+A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item though no more than two players can contribute to a single project. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 
 \pagebreakNum
@@ -278,7 +278,7 @@ Make a number of d20 checks equal to the total number of days needed. Add your p
 If you do not have enough downtime or gold to cover the increased cost you may pay the costs at a later time (you do not complete the item until costs are paid). 
 
 ### Help
-You can help other players craft a poison. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players (Maximum Total of 4), the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
+You can help other players craft a poison though only four person can contribute to a single project at most. The downtime and gold cost may be split in whatever way you wish. If the downtime is split evenly between all players, the crafter may add your proficiency to the rolls they make. If it cannot be split evenly, the excess day may be taken from any of the participants. The total number of days should add up to the original number.
 
 
 \columnbreak
@@ -342,7 +342,7 @@ You must have a contracted training partner who matches your spent downtime. (Th
 You gain 100 xp per day of training.
 
 ### Help
-You can assist someone’s training with no requirements other than 1 downtime day per day spent by the character training. You do not gain experience but may request payment from the trainee for the cost of your time.
+You can assist someone’s training by being their contracted training partner with no requirements other than 1 downtime day per day spent by the character training. You do not gain experience but may request payment from the trainee for the cost of your time.
 
 
 \columnbreak
