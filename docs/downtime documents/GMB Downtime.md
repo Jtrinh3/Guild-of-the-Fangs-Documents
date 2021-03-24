@@ -351,7 +351,7 @@ You can assist someone’s training by being their contracted training partner w
 Downtime can be spent putting in the time to learn a new language, trade, or skill that you are partial to or think you'll need later. You may even fine tune your skills to an even more skilled state.
 
 ### Requirements
-You may only learn skill proficiencies in skills that pertain to the starting skills of a class you have at least 3 levels in. Otherwise you are free to choose.
+You may only learn skill proficiencies in skills that pertain to the starting skills of a class you have at least 3 levels in. In addition, you cannot learn the Thieves' Cant language nor Druidic. You are otherwise free to choose within these boundaries.
 
 ### Resources
 Learning a skill, language, or tool proficiency costs 30 days of downtime and 500 gp.
