@@ -326,7 +326,7 @@ Must speak Common.
 You must spend 5 downtime days (40 hours) to perform this activity and can only do this activity two times per calendar month (your last day working will determine the month that job falls in).
 
 ### Resolution
-Choose up to 3 of your skills or tools that you are proficient in and make an appropriate check for each one. Add the totals together, divide by 3 and round down.
+Choose  3 of your skills or tools that you are proficient in and make an appropriate check for each one. Add the totals together, divide by 3 and round down.
 
 Your character finds work doing a job that utilizes their skills and paying an amount of gold per day equal to the total. Gold is gained at the end of the 5th day.
 
