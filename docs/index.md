@@ -14,5 +14,6 @@
 
 ## Others
 * [Frequently Asked Questions](https://jtrinh3.github.io/Guild-of-the-Fangs-Documents/FAQ/)
+* [Practical Guide to Mounted Combat by RPGBOTs](https://rpgbot.net/dnd5/characters/mounted_combat.html)
 
 ## To Do's
