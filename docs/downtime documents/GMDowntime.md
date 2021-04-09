@@ -398,7 +398,7 @@ The DM of the quest has final say on what this information is revealed through t
 
 \pagebreakNum
 
-<div class='wide'>
+
 
 ## Spell Copying
 Aspiring Wizards and Ritual Casters tend to commit their time to the transcribing and practice of new spells to their spell books. When spending downtime to do this you put in the time to both translate and record the spell as well as practice it a few times for when you need to use it.
@@ -425,6 +425,19 @@ Spell Level |	Downtime | Cost |
 7th | 1 Day, 6 Hours | 350 gp
 8th | 2 Days | 400 gp
 9th | 2 Days, 2 Hours | 450 gp
+
+The College of Neverwinter also provides Guild Members access to their spells based on ones rank.
+
+Rank | Spells Available
+---|---
+Rank C | Level 1-3 Spells
+Rank B | Level 4-5 Spells
+Rank A | Level 6 Spells
+Rank S | Level 7 Spells
+
+
+\columnbreak
+
 
 ### Resolution
 The spells are copied into your spell book.
