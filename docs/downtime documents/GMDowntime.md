@@ -427,7 +427,7 @@ Spell Level |	Downtime | Cost |
 8th | 2 Days | 400 gp
 9th | 2 Days, 2 Hours | 450 gp
 
-The College of Neverwinter also provides Guild Members access to their spells based on ones rank.
+The College of Neverwinter also provides Guild Members access to scribe spells based on ones rank.
 
 Rank | Spells Available
 ---|---
@@ -443,7 +443,7 @@ Rank S | Level 7 Spells
 ### Resolution
 The spells are copied into your spell book.
 
-### Spell Book Deplication
+### Spell Book Duplication
 You can copy a spell from your own Spellbook into another book—for example, if you want to make a backup copy of your Spellbook. This is just like copying a new spell into your Spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell.
 
 
