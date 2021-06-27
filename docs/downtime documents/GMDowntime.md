@@ -84,30 +84,30 @@ If an activity calls for a tool check or for your tool modifier you may have a c
 Tool |	Available Abilities
 ----------- | ----------- | 
 Alchemist’s supplies |	Int
-Brewer’s supplies |	Int or Wis
+Brewer’s supplies   |	Int or Wis
 Calligrapher's Supplies |	Dex or Cha
-Carpenter’s tools |	Str or Int
+Carpenter’s tools   |	Str or Int
 Cartographer’s tools |	Int or Wis
-Cobbler’s tools |	Dex or Int
-Cook’s utensils |	Int or Wis
-Disguise Kit |	Wis or Cha
-Forgery Kit |	Dex or Int
-Gaming set |	Int or Cha
+Cobbler’s tools     |	Dex or Int
+Cook’s utensils     |	Int or Wis
+Disguise Kit        |	Wis or Cha
+Forgery Kit         |	Dex or Int
+Gaming set          |	Int or Cha
 Glassblower’s tools |	Dex or Wis
-Herbalism Kit |	Int or Wis
-Jeweler’s tools |	Wis
+Herbalism Kit       |	Int or Wis
+Jeweler’s tools     |	Wis
 Leatherworker’s tools |	Dex or Wis
-Mason’s tools |	Str or Int
-Musical instrument |	Cha
-Navigator’s tools |	Int or Wis
-Painter’s supplies |	Dex or Cha
-Poisoner's Kit |	Int or Wis
-Potter’s tools |	Dex or Wis
-Smith’s tools |	Str or Con
-Thieves’ tools |	Dex
-Tinker’s tools |	Int
-Weaver’s tools |	Dex or Wis
-Woodcarver’s tools |	Dex or Wis
+Mason’s tools       |	Str or Int
+Musical instrument  |	Cha
+Navigator’s tools   |	Int or Wis
+Painter’s supplies  |	Dex or Cha
+Poisoner's Kit      |	Int or Wis
+Potter’s tools      |	Dex or Wis
+Smith’s tools       |	Str or Con
+Thieves’ tools      |	Dex
+Tinker’s tools      |	Int
+Weaver’s tools      |	Dex or Wis
+Woodcarver’s tools  |	Dex or Wis
 
 </div>
 
