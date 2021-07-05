@@ -288,10 +288,12 @@ You can help other players craft a poison though only four person can contribute
 With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll.
 
 ### Requirements
-Must have the spellcasting or pact magic feature, be proficient in the Arcana Skill, and must have the spell you wish to craft known through that feature.
+The character must have proficiency in the Arcana skill. Moreover, the character must have the spell prepared, or it must be among the character’s known spells, in order to scribe a scroll of that spell.
 
 ### Resources
-You must spend a number of downtime and gp according to the spell level you wish to craft reflected in the table below. Spells higher than 7th level are not craftable. If the spell requires a consumed component that has a gp cost associated, then you must also pay that cost in addition to any other cost.
+Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table below. In addition, the character must provide any material components required for the casting of the spell.
+
+If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
 Spell Level |	Time | Cost
 ----------- | ----------- | -----------
@@ -412,6 +414,7 @@ Copying that spell into your Spellbook involves reproducing the basic form of th
 You need the Wizard Spellcasting feature, the Ritual Caster feat, or the Book of Ancient Secrets Warlock invocation. The spells you copy must follow the requirements of that feature.
 
 You also need a spell book or scroll containing the spell(s) you wish to copy.
+
 ### Resources
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents Material Components you expend as you experiment with the spell to Master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other Spells.
 
@@ -500,6 +503,6 @@ Nat 20 | Fated to live, you have gained the favor of your god. For your next que
 ## Credit
 While all of this was discussed by the staff of the Guild of the Fang. We have to give credit to [Covillian West March Server's](https://discord.gg/P6MGmyc) Downtime Rules for the bulk of and foundation to this system.
 
-Of course nothing of this is endorsed or approved by WOTC and portions of the materials used in this document are property of WOTC. This is all unofficial fan content.
+Of course, nothing of this is endorsed or approved by WOTC and portions of the materials used in this document are property of WOTC. This is all unofficial fan content.
 
 ## Change Log
