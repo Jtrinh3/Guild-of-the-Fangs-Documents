@@ -291,9 +291,9 @@ With time and patience, a spellcaster can transfer a spell to a scroll, creating
 Must have the spellcasting or pact magic feature, be proficient in the Arcana Skill, and must have the spell you wish to craft known through that feature.
 
 ### Resources
-You must have a number of downtime and gp according to the spell level you wish to craft (Spells higher than 7th level are not craftable in this way). See below table.
+You must spend a number of downtime and gp according to the spell level you wish to craft reflected in the table below. Spells higher than 7th level are not craftable. If the spell requires a consumed component that has a gp cost associated, then you must also pay that cost in addition to any other cost.
 
-Time |	Spell Level | Cost
+Spell Level |	Time | Cost
 ----------- | ----------- | -----------
 Cantrip | 1 Day | 15 gp
 1st | 1 Day | 50 gp
