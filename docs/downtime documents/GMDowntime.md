@@ -200,8 +200,7 @@ Raw materials worth half of the item (or items) Full Price and a number of downt
 The character successfully crafts the item and can add it to their inventory or sell it for the full listed cost.
 
 ### Help
-A character can craft items for another using the above Resolution rules. They can also assist another crafter in creating an item though only two person can contribute to a project at once. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
-
+A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item though no more than three total players can contribute to a single project, unless the DM specifies otherwise for specific projects. All characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 \pagebreakNum
 
@@ -258,8 +257,7 @@ Legendary | 500,000 gp
 The character successfully crafts the non-magical and can add it to their inventory or sell it for the full listed cost. 
 
 ### Help
-A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item though no more than two players can contribute to a single project. Both characters must meet the Requirements and can split the downtime and gp costs as desired.
-
+A character can craft for another using the above Resolution rules. They can also assist another crafter in creating an item though no more than three total players can contribute to a single project, unless the DM specifies otherwise for specific projects. All characters must meet the Requirements and can split the downtime and gp costs as desired.
 
 \pagebreakNum
 
