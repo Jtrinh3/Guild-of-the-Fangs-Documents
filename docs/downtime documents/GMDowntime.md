@@ -54,7 +54,7 @@ Helping with a downtime activity requires you to also meet the requirements for 
 <div class='wide'>
 
 ## Features, Spells, and Downtime
-What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable.
+What bonuses can you use on the ability checks? In general only features that could affect you for several hours are applicable, and features that affect a single roll without a specific duration isn't. If something isn't on this list, feel free to ask.
 
 Feature | Usable?
 ----------- | ----------- | 
@@ -66,6 +66,7 @@ Fire Rune (Rune Knight Fighter) | Counts as expertise.
 Reliable Talent (Rogue) | Yes
 Guidance (Spell) | No
 Enhance Ability (Spell) | No
+Foresight (Spell) | Yes
 Help Action | No
 Rage (Barbarian) | No
 Portent (Divination Wizard) | No
