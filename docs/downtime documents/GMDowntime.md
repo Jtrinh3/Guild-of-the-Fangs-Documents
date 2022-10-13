@@ -428,15 +428,6 @@ Spell Level |	Downtime | Cost |
 8th | 2 Days | 400 gp
 9th | 2 Days, 2 Hours | 450 gp
 
-The College of Neverwinter also provides Guild Members access to scribe spells based on ones rank.
-
-Rank | Spells Available
----|---
-Rank C | Level 1-3 Spells
-Rank B | Level 4-5 Spells
-Rank A | Level 6 Spells
-Rank S | Level 7 Spells
-
 
 \columnbreak
 
