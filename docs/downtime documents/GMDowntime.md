@@ -58,21 +58,21 @@ What bonuses can you use on the ability checks? In general only features that co
 
 Feature | Usable?
 ----------- | ----------- | 
-Bardic Inspiration (Bard) | No
-Silver Tongue (Eloquence Bard) | Yes
-Peerless Skill (Lore Bard) | Yes
-Emboldening Bond (Peace Domain Cleric) | No
-Fire Rune (Rune Knight Fighter) | Counts as expertise.
-Reliable Talent (Rogue) | Yes
-Guidance (Spell) | No
-Enhance Ability (Spell) | No
-Foresight (Spell) | Yes
-Help Action | No
-Rage (Barbarian) | No
-Portent (Divination Wizard) | No
-Lucky (Feat) | No
 Artisan's Blessing (Forge Cleric) | Using this ability for any relevant activity allows you to remove the downtime cost for a recipe that costs 100 gp or less
+Bardic Inspiration (Bard) | No
+Emboldening Bond (Peace Domain Cleric) | No
+Enhance Ability (Spell) | No
 Fabricate (Spell) | Using this spell for any relevant activity allows you to cut the downtime cost in half (rounded down)
+Fire Rune (Rune Knight Fighter) | Counts as expertise.
+Foresight (Spell) | Yes
+Guidance (Spell) | No
+Help Action | No
+Lucky (Feat) | No
+Peerless Skill (Lore Bard) | Yes
+Portent (Divination Wizard) | No
+Rage (Barbarian) | No
+Reliable Talent (Rogue) | Yes
+Silver Tongue (Eloquence Bard) | Yes
 </div>
 
 \pagebreakNum
